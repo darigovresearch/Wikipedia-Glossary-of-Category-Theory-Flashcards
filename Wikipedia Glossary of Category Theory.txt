@@ -1,7 +1,7 @@
-<dt class=""glossary"" id=""abelian"" style=""margin-top: 0.4em;""><dfn class=""glossary"">abelian</dfn></dt>
+"<dt class=""glossary"" id=""abelian"" style=""margin-top: 0.4em;""><dfn class=""glossary"">abelian</dfn></dt>"¬"
 <dd class=""glossary"">A category is <a href=""https://en.wikipedia.org/wiki/Abelian_category"" title=""Abelian category"">abelian</a> if it has a zero object, it has all pullbacks and pushouts, and all monomorphisms and epimorphisms are normal.</dd>
-
-<dt class=""glossary"" id=""accessible"" style=""margin-top: 0.4em;""><dfn class=""glossary"">accessible</dfn></dt>
+"
+"<dt class=""glossary"" id=""accessible"" style=""margin-top: 0.4em;""><dfn class=""glossary"">accessible</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;Given a <a href=""https://en.wikipedia.org/wiki/Cardinal_number"" title=""Cardinal number"">cardinal number</a> κ, an object <i>X</i> in a category is <a href=""https://en.wikipedia.org/wiki/Accessible_object"" class=""mw-redirect"" title=""Accessible object"">κ-accessible</a> (or κ-compact or κ-presentable) if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Hom} (X,-)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -19,11 +19,11 @@
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ff04322e141ee468880e85236e7ed322d81f4b66"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:11.473ex; height:2.843ex;"" alt=""\operatorname {Hom} (X,-)""/></span> commutes with κ-filtered colimits.</dd>
 <dd class=""glossary"">2.&#160;&#160;Given a <a href=""https://en.wikipedia.org/wiki/Regular_cardinal"" title=""Regular cardinal"">regular cardinal</a> κ, a category is <a href=""https://en.wikipedia.org/wiki/Accessible_category"" title=""Accessible category"">κ-accessible</a> if it has κ-filtered colimits and there exists a small set <i>S</i> of κ-compact objects that generates the category under colimits, meaning every object can be written as a colimit of diagrams of objects in <i>S</i>.</dd>
-
-<dt class=""glossary"" id=""additive"" style=""margin-top: 0.4em;""><dfn class=""glossary"">additive</dfn></dt>
+"
+"<dt class=""glossary"" id=""additive"" style=""margin-top: 0.4em;""><dfn class=""glossary"">additive</dfn></dt>"¬"
 <dd class=""glossary"">A category is <a href=""https://en.wikipedia.org/wiki/Additive_category"" title=""Additive category"">additive</a> if it is preadditive (to be precise, has some pre-additive structure) and admits all finite <a href=""https://en.wikipedia.org/wiki/Coproduct"" title=""Coproduct"">coproducts</a>. Although ""preadditive"" is an additional structure, one can show ""additive"" is a <i>property</i> of a category; i.e., one can ask whether a given category is additive or not.<sup id=""cite_ref-2"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-2"">&#91;2&#93;</a></sup></dd>
-
-<dt class=""glossary"" id=""adjunction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">adjunction</dfn></dt>
+"
+"<dt class=""glossary"" id=""adjunction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">adjunction</dfn></dt>"¬"
 <dd class=""glossary"">An <a href=""https://en.wikipedia.org/wiki/Adjoint_functor"" class=""mw-redirect"" title=""Adjoint functor"">adjunction</a> (also called an adjoint pair) is a pair of functors <i>F</i>: <i>C</i> → <i>D</i>, <i>G</i>: <i>D</i> → <i>C</i> such that there is a ""natural"" bijection
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Hom} _{D}(F(X),Y)\simeq \operatorname {Hom} _{C}(X,G(Y))}"">
   <semantics>
@@ -105,22 +105,22 @@
     <annotation encoding=""application/x-tex"">{\displaystyle \operatorname {Hom} _{D}(F(-),-)\simeq \operatorname {Hom} _{C}(-,G(-))}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/083a00b0f3c1b02fd1cc45d7ade02a9db2aaeea2"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:35.961ex; height:2.843ex;"" alt=""\operatorname {Hom} _{D}(F(-),-)\simeq \operatorname {Hom} _{C}(-,G(-))""/></span> of bifunctors (which are contravariant in the first variable.)</dd>
-
-<dt class=""glossary"" id=""algebra_for_a_monad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">algebra for a monad</dfn></dt>
+"
+"<dt class=""glossary"" id=""algebra_for_a_monad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">algebra for a monad</dfn></dt>"¬"
 <dd class=""glossary"">Given a monad <i>T</i> in a category <i>X</i>, an <a href=""https://en.wikipedia.org/wiki/Algebra_for_a_monad"" class=""mw-redirect"" title=""Algebra for a monad"">algebra for <i>T</i></a> or a <i>T</i>-algebra is an object in <i>X</i> with a <a href=""https://en.wikipedia.org/wiki/Monoid_action"" class=""mw-redirect"" title=""Monoid action"">monoid action</a> of <i>T</i> (""algebra"" is misleading and ""<i>T</i>-object"" is perhaps a better term.) For example, given a group <i>G</i> that determines a monad <i>T</i> in <b>Set</b> in the standard way, a <i>T</i>-algebra is a set with an <a href=""https://en.wikipedia.org/wiki/Group_action_(mathematics)"" class=""mw-redirect"" title=""Group action (mathematics)"">action</a> of <i>G</i>.</dd>
-
-<dt class=""glossary"" id=""amnestic"" style=""margin-top: 0.4em;""><dfn class=""glossary"">amnestic</dfn></dt>
-<dd class=""glossary"">A functor is amnestic if it has the property: if <i>k</i> is an isomorphism and <i>F</i>(<i>k</i>) is an identity, then <i>k</i> is an identity.</dd>
-<dt class=""glossary"" id=""balanced"" style=""margin-top: 0.4em;""><dfn class=""glossary"">balanced</dfn></dt>
+"
+"<dt class=""glossary"" id=""amnestic"" style=""margin-top: 0.4em;""><dfn class=""glossary"">amnestic</dfn></dt>"¬"
+<dd class=""glossary"">A functor is amnestic if it has the property: if <i>k</i> is an isomorphism and <i>F</i>(<i>k</i>) is an identity, then <i>k</i> is an identity.</dd>"
+"<dt class=""glossary"" id=""balanced"" style=""margin-top: 0.4em;""><dfn class=""glossary"">balanced</dfn></dt>"¬"
 <dd class=""glossary"">A category is balanced if every bimorphism is an isomorphism.</dd>
-
-<dt class=""glossary"" id=""beck&#39;s_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Beck's theorem</dfn></dt>
+"
+"<dt class=""glossary"" id=""beck&#39;s_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Beck's theorem</dfn></dt>"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Beck%27s_monadicity_theorem"" title=""Beck&#39;s monadicity theorem"">Beck's theorem</a> characterizes the category of <a href=""https://en.wikipedia.org/wiki/Algebra_for_a_monad"" class=""mw-redirect"" title=""Algebra for a monad"">algebras for a given monad</a>.</dd>
-
-<dt class=""glossary"" id=""bicategory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">bicategory</dfn></dt>
+"
+"<dt class=""glossary"" id=""bicategory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">bicategory</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Bicategory"" title=""Bicategory"">bicategory</a> is a model of a weak <a href=""https://en.wikipedia.org/wiki/2-category"" class=""mw-redirect"" title=""2-category"">2-category</a>.</dd>
-
-<dt class=""glossary"" id=""bifunctor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">bifunctor</dfn></dt>
+"
+"<dt class=""glossary"" id=""bifunctor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">bifunctor</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Bifunctor"" class=""mw-redirect"" title=""Bifunctor"">bifunctor</a> from a pair of categories <i>C</i> and <i>D</i> to a category <i>E</i> is a functor <i>C</i> × <i>D</i> → <i>E</i>. For example, for any category <i>C</i>, <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Hom} (-,-)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -137,20 +137,20 @@
     <annotation encoding=""application/x-tex"">{\displaystyle \operatorname {Hom} (-,-)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/109100e375473e3b95c60a7ebf1adc71ce797c04"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:11.301ex; height:2.843ex;"" alt=""\operatorname {Hom} (-,-)""/></span> is a bifunctor from <i>C</i><sup>op</sup> and <i>C</i> to <b>Set</b>.</dd>
-
-<dt class=""glossary"" id=""bimorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">bimorphism</dfn></dt>
+"
+"<dt class=""glossary"" id=""bimorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">bimorphism</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Bimorphism"" class=""mw-redirect"" title=""Bimorphism"">bimorphism</a> is a morphism that is both an epimorphism and a monomorphism.</dd>
-
-<dt class=""glossary"" id=""bousfield_localization"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Bousfield localization</dfn></dt>
+"
+"<dt class=""glossary"" id=""bousfield_localization"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Bousfield localization</dfn></dt>"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Bousfield_localization"" title=""Bousfield localization"">Bousfield localization</a>.</dd>
-
-<dt class=""glossary"" id=""calculus_of_functors"" style=""margin-top: 0.4em;""><dfn class=""glossary"">calculus of functors</dfn></dt>
+"
+"<dt class=""glossary"" id=""calculus_of_functors"" style=""margin-top: 0.4em;""><dfn class=""glossary"">calculus of functors</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Calculus_of_functors"" title=""Calculus of functors"">calculus of functors</a> is a technique of studying functors in the manner similar to the way a <a href=""https://en.wikipedia.org/wiki/Function_(mathematics)"" title=""Function (mathematics)"">function</a> is studied via its <a href=""https://en.wikipedia.org/wiki/Taylor_series"" title=""Taylor series"">Taylor series</a> expansion; whence, the term ""calculus"".</dd>
-
-<dt class=""glossary"" id=""cartesian_closed"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cartesian closed</dfn></dt>
+"
+"<dt class=""glossary"" id=""cartesian_closed"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cartesian closed</dfn></dt>"¬"
 <dd class=""glossary"">A category is <a href=""https://en.wikipedia.org/wiki/Cartesian_closed_category"" title=""Cartesian closed category"">cartesian closed</a> if it has a terminal object and that any two objects have a product and exponential.</dd>
-
-<dt class=""glossary"" id=""cartesian_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cartesian functor</dfn></dt>
+"
+"<dt class=""glossary"" id=""cartesian_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cartesian functor</dfn></dt>"¬"
 <dd class=""glossary"">Given relative categories <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle p:F\to C,q:G\to C}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -184,21 +184,21 @@
     <annotation encoding=""application/x-tex"">{\displaystyle f:F\to G}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/85edcca983d67148f3ef74994f52e81db9fa9a81"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:10.397ex; height:2.509ex;"" alt=""f:F\to G""/></span> over <i>C</i> is cartesian if it sends cartesian morphisms to cartesian morphisms.</dd>
-
-<dt class=""glossary"" id=""cartesian_morphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cartesian morphism</dfn></dt>
+"
+"<dt class=""glossary"" id=""cartesian_morphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cartesian morphism</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;Given a functor π: <i>C</i> → <i>D</i> (e.g., a <a href=""https://en.wikipedia.org/wiki/Prestack"" title=""Prestack"">prestack</a> over schemes), a morphism <i>f</i>: <i>x</i> → <i>y</i> in <i>C</i> is <a href=""https://en.wikipedia.org/wiki/Cartesian_morphism"" class=""mw-redirect"" title=""Cartesian morphism"">π-cartesian</a> if, for each object <i>z</i> in <i>C</i>, each morphism <i>g</i>: <i>z</i> → <i>y</i> in <i>C</i> and each morphism <i>v</i>: π(<i>z</i>) → π(<i>x</i>) in <i>D</i> such that π(<i>g</i>) = π(<i>f</i>) ∘ <i>v</i>, there exists a unique morphism <i>u</i>: <i>z</i> → <i>x</i> such that π(<i>u</i>) = <i>v</i> and <i>g</i> = <i>f</i> ∘ <i>u</i>.</dd>
 <dd class=""glossary"">2.&#160;&#160;Given a functor π: <i>C</i> → <i>D</i> (e.g., a <a href=""https://en.wikipedia.org/wiki/Prestack"" title=""Prestack"">prestack</a> over rings), a morphism <i>f</i>: <i>x</i> → <i>y</i> in <i>C</i> is <a href=""https://en.wikipedia.org/wiki/Cartesian_morphism"" class=""mw-redirect"" title=""Cartesian morphism"">π-coCartesian</a> if, for each object <i>z</i> in <i>C</i>, each morphism <i>g</i>: <i>x</i> → <i>z</i> in <i>C</i> and each morphism <i>v</i>: π(<i>y</i>) → π(<i>z</i>) in <i>D</i> such that π(<i>g</i>) = <i>v</i> ∘ π(<i>f</i>), there exists a unique morphism <i>u</i>: <i>y</i> → <i>z</i> such that π(<i>u</i>) = <i>v</i> and <i>g</i> = <i>u</i>  ∘ <i>f</i>. (In short, <i>f</i> is the dual of a π-cartesian morphism.)</dd>
-
-<dt class=""glossary"" id=""cartesian_square"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Cartesian square</dfn></dt>
+"
+"<dt class=""glossary"" id=""cartesian_square"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Cartesian square</dfn></dt>"¬"
 <dd class=""glossary"">A commutative diagram that is isomorphic to the diagram given as a fiber product.</dd>
-
-<dt class=""glossary"" id=""categorical_logic"" style=""margin-top: 0.4em;""><dfn class=""glossary"">categorical logic</dfn></dt>
+"
+"<dt class=""glossary"" id=""categorical_logic"" style=""margin-top: 0.4em;""><dfn class=""glossary"">categorical logic</dfn></dt>"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Categorical_logic"" title=""Categorical logic"">Categorical logic</a> is an approach to <a href=""https://en.wikipedia.org/wiki/Mathematical_logic"" title=""Mathematical logic"">mathematical logic</a> that uses category theory.</dd>
-
-<dt class=""glossary"" id=""categorification"" style=""margin-top: 0.4em;""><dfn class=""glossary"">categorification</dfn></dt>
+"
+"<dt class=""glossary"" id=""categorification"" style=""margin-top: 0.4em;""><dfn class=""glossary"">categorification</dfn></dt>"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Categorification"" title=""Categorification"">Categorification</a> is a process of replacing sets and set-theoretic concepts with categories and category-theoretic concepts in some nontrivial way to capture categoric flavors. Decategorification is the reverse of categorification.</dd>
-
-<dt class=""glossary"" id=""category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">category</dfn></dt>
+"
+"<dt class=""glossary"" id=""category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Category_(mathematics)"" title=""Category (mathematics)"">category</a> consists of the following data
 <ol><li>A class of objects,</li>
 <li>For each pair of objects <i>X</i>, <i>Y</i>, a set <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Hom} (X,Y)}"">
@@ -400,17 +400,17 @@ For example, a <a href=""https://en.wikipedia.org/wiki/Partially_ordered_set"" t
     <annotation encoding=""application/x-tex"">{\displaystyle x\leq y}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c07a0bc023490be1c08e6c33a9cdc93bec908224"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:5.584ex; height:2.343ex;"" alt=""x\leq y""/></span>; the associativity of composition means transitivity.</dd>
-
-<dt class=""glossary"" id=""category_of_categories"" style=""margin-top: 0.4em;""><dfn class=""glossary"">category of categories</dfn></dt>
+"
+"<dt class=""glossary"" id=""category_of_categories"" style=""margin-top: 0.4em;""><dfn class=""glossary"">category of categories</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Category_of_categories"" class=""mw-redirect"" title=""Category of categories"">category of (small) categories</a>, denoted by <b>Cat</b>, is a category where the objects are all the categories which are small with respect to some fixed universe and the morphisms are all the <a href=""https://en.wikipedia.org/wiki/Functor"" title=""Functor"">functors</a>.</dd>
-
-<dt class=""glossary"" id=""classifying_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">classifying space</dfn></dt>
+"
+"<dt class=""glossary"" id=""classifying_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">classifying space</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Classifying_space_of_a_category"" class=""mw-redirect"" title=""Classifying space of a category"">classifying space of a category</a> <i>C</i> is the geometric realization of the nerve of <i>C</i>.</dd>
-
-<dt class=""glossary"" id=""co-"" style=""margin-top: 0.4em;""><dfn class=""glossary"">co-</dfn></dt>
+"
+"<dt class=""glossary"" id=""co-"" style=""margin-top: 0.4em;""><dfn class=""glossary"">co-</dfn></dt>"¬"
 <dd class=""glossary"">Often used synonymous with op-; for example, a <a href=""https://en.wikipedia.org/wiki/Colimit"" class=""mw-redirect"" title=""Colimit"">colimit</a> refers to an op-limit in the sense that it is a limit in the opposite category. But there might be a distinction; for example, an op-fibration is not the same thing as a <a href=""https://en.wikipedia.org/wiki/Cofibration"" title=""Cofibration"">cofibration</a>.</dd>
-
-<dt class=""glossary"" id=""coend"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coend</dfn></dt>
+"
+"<dt class=""glossary"" id=""coend"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coend</dfn></dt>"¬"
 <dd class=""glossary"">The coend of a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle F:C^{\text{op}}\times C\to X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -491,8 +491,8 @@ For example, if <i>R</i> is a ring, <i>M</i> a right <i>R</i>-module and <i>N</i
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ecf1177fc9b9b96f6d69ead8e4505242c62b5bed"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -2.338ex; width:24.93ex; height:6.176ex;"" alt=""M\otimes _{R}N=\int ^{R}M\otimes _{\mathbb {Z} }N""/></span></dd></dl>
 where <i>R</i> is viewed as a category with one object whose morphisms are the elements of <i>R</i>.</dd>
-
-<dt class=""glossary"" id=""coequalizer"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coequalizer</dfn></dt>
+"
+"<dt class=""glossary"" id=""coequalizer"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coequalizer</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Coequalizer"" title=""Coequalizer"">coequalizer</a> of a pair of morphisms <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f,g:A\to B}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -509,11 +509,11 @@ where <i>R</i> is viewed as a category with one object whose morphisms are the e
     <annotation encoding=""application/x-tex"">{\displaystyle f,g:A\to B}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/17911b4e8e6a2f58d32826d24e9f879918303975"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:12.487ex; height:2.509ex;"" alt=""f,g:A\to B""/></span> is the colimit of the pair. It is the dual of an equalizer.</dd>
-
-<dt class=""glossary"" id=""coherence_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coherence theorem</dfn></dt>
+"
+"<dt class=""glossary"" id=""coherence_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coherence theorem</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Coherence_theorem"" class=""mw-redirect"" title=""Coherence theorem"">coherence theorem</a> is a theorem of a form that states a weak structure is equivalent to a strict structure.</dd>
-
-<dt class=""glossary"" id=""coimage"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coimage</dfn></dt>
+"
+"<dt class=""glossary"" id=""coimage"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coimage</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Coimage"" title=""Coimage"">coimage</a> of a morphism <i>f</i>: <i>X</i> → <i>Y</i> is the coequalizer of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X\times _{Y}X\rightrightarrows X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -533,11 +533,11 @@ where <i>R</i> is viewed as a category with one object whose morphisms are the e
     <annotation encoding=""application/x-tex"">{\displaystyle X\times _{Y}X\rightrightarrows X}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/5e337c62274495d62f3a2675751d7ff1f9a2e415"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:13.881ex; height:2.509ex;"" alt=""{\displaystyle X\times _{Y}X\rightrightarrows X}""/></span>.</dd>
-
-<dt class=""glossary"" id=""colored_operad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">colored operad</dfn></dt>
+"
+"<dt class=""glossary"" id=""colored_operad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">colored operad</dfn></dt>"¬"
 <dd class=""glossary"">Another term for <a href=""https://en.wikipedia.org/wiki/Multicategory"" title=""Multicategory"">multicategory</a>, a generalized category where a morphism can have several domains. The notion of ""colored operad"" is more primitive than that of operad: in fact, an operad can be defined as a colored operad with a single object.</dd>
-
-<dt class=""glossary"" id=""comma"" style=""margin-top: 0.4em;""><dfn class=""glossary"">comma</dfn></dt>
+"
+"<dt class=""glossary"" id=""comma"" style=""margin-top: 0.4em;""><dfn class=""glossary"">comma</dfn></dt>"¬"
 <dd class=""glossary"">Given functors <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:C\to B,g:D\to B}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -724,17 +724,17 @@ where <i>R</i> is viewed as a category with one object whose morphisms are the e
     <annotation encoding=""application/x-tex"">{\displaystyle f(c){\overset {\alpha }{\to }}g(d)\to g(d').}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/3dd5f607d9691e8d61f0fa044e46cc6088cb6d7b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:19.649ex; height:3.676ex;"" alt=""f(c){\overset {\alpha }{\to }}g(d)\to g(d&#039;).""/></span> For example, if <i>f</i> is the identity functor and <i>g</i> is the constant functor with a value <i>b</i>, then it is the slice category of <i>B</i> over an object <i>b</i>.</dd>
-
-<dt class=""glossary"" id=""comonad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">comonad</dfn></dt>
+"
+"<dt class=""glossary"" id=""comonad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">comonad</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Comonad"" class=""mw-redirect"" title=""Comonad"">comonad</a> in a category <i>X</i> is a <a href=""https://en.wikipedia.org/wiki/Comonoid"" class=""mw-redirect"" title=""Comonoid"">comonoid</a> in the monoidal category of endofunctors of <i>X</i>.</dd>
-
-<dt class=""glossary"" id=""compact"" style=""margin-top: 0.4em;""><dfn class=""glossary"">compact</dfn></dt>
+"
+"<dt class=""glossary"" id=""compact"" style=""margin-top: 0.4em;""><dfn class=""glossary"">compact</dfn></dt>"¬"
 <dd class=""glossary"">Probably synonymous with <a href=""#accessible"">#accessible</a>.</dd>
-
-<dt class=""glossary"" id=""complete"" style=""margin-top: 0.4em;""><dfn class=""glossary"">complete</dfn></dt>
+"
+"<dt class=""glossary"" id=""complete"" style=""margin-top: 0.4em;""><dfn class=""glossary"">complete</dfn></dt>"¬"
 <dd class=""glossary"">A category is <a href=""https://en.wikipedia.org/wiki/Complete_category"" title=""Complete category"">complete</a> if all small limits exist.</dd>
-
-<dt class=""glossary"" id=""composition"" style=""margin-top: 0.4em;""><dfn class=""glossary"">composition</dfn></dt>
+"
+"<dt class=""glossary"" id=""composition"" style=""margin-top: 0.4em;""><dfn class=""glossary"">composition</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A composition of morphisms in a category is part of the datum defining the category.</dd>
 <dd class=""glossary"">2.&#160;&#160;If <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:C\to D,\,g:D\to E}"">
   <semantics>
@@ -884,11 +884,11 @@ where <i>R</i> is viewed as a category with one object whose morphisms are the e
     <annotation encoding=""application/x-tex"">{\displaystyle (\psi \circ \varphi )_{x}=\psi _{x}\circ \varphi _{x}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f7cfb5a0b892385581dd46daf361c6cdc4dae1a6"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:18.881ex; height:2.843ex;"" alt=""{\displaystyle (\psi \circ \varphi )_{x}=\psi _{x}\circ \varphi _{x}}""/></span>.</dd>
-
-<dt class=""glossary"" id=""concrete"" style=""margin-top: 0.4em;""><dfn class=""glossary"">concrete</dfn></dt>
+"
+"<dt class=""glossary"" id=""concrete"" style=""margin-top: 0.4em;""><dfn class=""glossary"">concrete</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Concrete_category"" title=""Concrete category"">concrete category</a> <i>C</i> is a category such that there is a faithful functor from <i>C</i> to <b><a href=""https://en.wikipedia.org/wiki/Category_of_sets"" title=""Category of sets"">Set</a></b>; e.g., <b><a href=""https://en.wikipedia.org/wiki/Category_of_vector_spaces"" class=""mw-redirect"" title=""Category of vector spaces"">Vec</a></b>, <b><a href=""https://en.wikipedia.org/wiki/Category_of_groups"" title=""Category of groups"">Grp</a></b> and <b><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Top</a></b>.</dd>
-
-<dt class=""glossary"" id=""cone"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cone</dfn></dt>
+"
+"<dt class=""glossary"" id=""cone"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cone</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Cone_(category_theory)"" title=""Cone (category theory)"">cone</a> is a way to express the <a href=""https://en.wikipedia.org/wiki/Universal_property"" title=""Universal property"">universal property</a> of a colimit (or dually a limit). One can show<sup id=""cite_ref-3"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-3"">&#91;3&#93;</a></sup> that the colimit <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \varinjlim }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -974,8 +974,8 @@ where <i>R</i> is viewed as a category with one object whose morphisms are the e
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ef2f41a7c0f4f5927c41927d8efbe87343a81fcc"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.637ex; margin-bottom: -0.367ex; width:30.967ex; height:4.009ex;"" alt=""\operatorname {Hom} (\varinjlim f,X)\simeq \operatorname {Hom} (f,\Delta _{X}),""/></span></dd></dl>
 provided the colimit in question exists. The right-hand side is then the set of cones with vertex <i>X</i>.<sup id=""cite_ref-4"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-4"">&#91;4&#93;</a></sup></dd>
-
-<dt class=""glossary"" id=""connected"" style=""margin-top: 0.4em;""><dfn class=""glossary"">connected</dfn></dt>
+"
+"<dt class=""glossary"" id=""connected"" style=""margin-top: 0.4em;""><dfn class=""glossary"">connected</dfn></dt>"¬"
 <dd class=""glossary"">A category is <a href=""https://en.wikipedia.org/wiki/Connected_category"" title=""Connected category"">connected</a> if, for each pair of objects <i>x</i>, <i>y</i>, there exists a finite sequence of objects <i>z</i><sub><i>i</i></sub> such that <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle z_{0}=x,z_{n}=y}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1056,11 +1056,11 @@ provided the colimit in question exists. The right-hand side is then the set of 
     <annotation encoding=""application/x-tex"">{\displaystyle \operatorname {Hom} (z_{i+1},z_{i})}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0851fa283f317f2944c2ad850ac6deaa0ce264a4"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:13.547ex; height:2.843ex;"" alt=""\operatorname {Hom} (z_{i+1},z_{i})""/></span> is nonempty for any <i>i</i>.</dd>
-
-<dt class=""glossary"" id=""conservative_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">conservative functor</dfn></dt>
+"
+"<dt class=""glossary"" id=""conservative_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">conservative functor</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Conservative_functor"" title=""Conservative functor"">conservative functor</a> is a functor that reflects isomorphisms. Many forgetful functors are conservative, but the forgetful functor from <b>Top</b> to <b>Set</b> is not conservative.</dd>
-
-<dt class=""glossary"" id=""constant"" style=""margin-top: 0.4em;""><dfn class=""glossary"">constant</dfn></dt>
+"
+"<dt class=""glossary"" id=""constant"" style=""margin-top: 0.4em;""><dfn class=""glossary"">constant</dfn></dt>"¬"
 <dd class=""glossary"">A functor is <a href=""https://en.wikipedia.org/wiki/Constant_functor"" class=""mw-redirect"" title=""Constant functor"">constant</a> if it maps every object in a category to the same object <i>A</i> and every morphism to the identity on <i>A</i>. Put in another way, a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:C\to D}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1095,8 +1095,8 @@ provided the colimit in question exists. The right-hand side is then the set of 
     <annotation encoding=""application/x-tex"">{\displaystyle C\to \{A\}{\overset {i}{\to }}D}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/e7ad83fc209e7a54578dc00f46e0a1c8709f6a0c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:13.696ex; height:4.009ex;"" alt=""C\to \{A\}{\overset {i}{\to }}D""/></span> for some object <i>A</i> in <i>D</i>, where <i>i</i> is the inclusion of the discrete category { <i>A</i> }.</dd>
-
-<dt class=""glossary"" id=""contravariant_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">contravariant functor</dfn></dt>
+"
+"<dt class=""glossary"" id=""contravariant_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">contravariant functor</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Contravariant_functor"" class=""mw-redirect"" title=""Contravariant functor"">contravariant functor</a> <i>F</i> from a category <i>C</i> to a category <i>D</i> is a (covariant) functor from <i>C</i><sup>op</sup> to <i>D</i>. It is sometimes also called a <a href=""https://en.wikipedia.org/wiki/Presheaf_(category_theory)"" title=""Presheaf (category theory)"">presheaf</a> especially when <i>D</i> is <b>Set</b> or the variants. For example, for each set <i>S</i>, let <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle {\mathfrak {P}}(S)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1206,8 +1206,8 @@ by sending a subset <i>A</i> of <i>T</i> to the pre-image <span class=""mwe-math
     <annotation encoding=""application/x-tex"">{\displaystyle {\mathfrak {P}}:\mathbf {Set} \to \mathbf {Set} }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/eb155a58659cf5b9bde9f6167994b6614797e2b0"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:14.975ex; height:2.676ex;"" alt=""{\mathfrak {P}}:\mathbf {Set} \to \mathbf {Set} ""/></span> is a contravariant functor.</dd>
-
-<dt class=""glossary"" id=""coproduct"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coproduct</dfn></dt>
+"
+"<dt class=""glossary"" id=""coproduct"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coproduct</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Coproduct"" title=""Coproduct"">coproduct</a> of a family of objects <i>X</i><sub><i>i</i></sub> in a category <i>C</i> indexed by a set <i>I</i> is the inductive limit <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \varinjlim }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1244,11 +1244,11 @@ by sending a subset <i>A</i> of <i>T</i> to the pre-image <span class=""mwe-math
     <annotation encoding=""application/x-tex"">{\displaystyle I\to C,\,i\mapsto X_{i}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a1df6b6f6ee5f004136520fcd3742d2911f2a4fb"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:15.114ex; height:2.509ex;"" alt=""I\to C,\,i\mapsto X_{i}""/></span>, where <i>I</i> is viewed as a discrete category. It is the dual of the product of the family. For example, a coproduct in <b><a href=""https://en.wikipedia.org/wiki/Category_of_groups"" title=""Category of groups"">Grp</a></b> is a <a href=""https://en.wikipedia.org/wiki/Free_product"" title=""Free product"">free product</a>.</dd>
-
-<dt class=""glossary"" id=""core"" style=""margin-top: 0.4em;""><dfn class=""glossary"">core</dfn></dt>
+"
+"<dt class=""glossary"" id=""core"" style=""margin-top: 0.4em;""><dfn class=""glossary"">core</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/w/index.php?title=Core_(category_theory)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Core (category theory) (page does not exist)"">core</a> of a category is the maximal groupoid contained in the category.</dd>
-
-<dt class=""glossary"" id=""day_convolution"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Day convolution</dfn></dt>
+"
+"<dt class=""glossary"" id=""day_convolution"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Day convolution</dfn></dt>"¬"
 <dd class=""glossary"">Given a group or monoid <i>M</i>, the <a href=""https://en.wikipedia.org/wiki/Day_convolution"" title=""Day convolution"">Day convolution</a> is the tensor product in <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbf {Fct} (M,\mathbf {Set} )}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1272,11 +1272,11 @@ by sending a subset <i>A</i> of <i>T</i> to the pre-image <span class=""mwe-math
     <annotation encoding=""application/x-tex"">{\displaystyle \mathbf {Fct} (M,\mathbf {Set} )}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fdd9ce311f71046a698eeca8803372cd8a4e51e2"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:12.945ex; height:2.843ex;"" alt=""\mathbf {Fct} (M,\mathbf {Set} )""/></span>.<sup id=""cite_ref-5"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-5"">&#91;5&#93;</a></sup></dd>
-
-<dt class=""glossary"" id=""density_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">density theorem</dfn></dt>
+"
+"<dt class=""glossary"" id=""density_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">density theorem</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Density_theorem_(category_theory)"" title=""Density theorem (category theory)"">density theorem</a> states that every presheaf (a set-valued contravariant functor) is a colimit of representable presheaves. Yoneda's lemma embeds a category <i>C</i> into the category of presheaves on <i>C</i>. The density theorem then says the image is ""dense"", so to say. The name ""density"" is because of the analogy with the <a href=""https://en.wikipedia.org/wiki/Jacobson_density_theorem"" title=""Jacobson density theorem"">Jacobson density theorem</a> (or other variants) in abstract algebra.</dd>
-
-<dt class=""glossary"" id=""diagonal_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">diagonal functor</dfn></dt>
+"
+"<dt class=""glossary"" id=""diagonal_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">diagonal functor</dfn></dt>"¬"
 <dd class=""glossary"">Given categories <i>I</i>, <i>C</i>, the <a href=""https://en.wikipedia.org/wiki/Diagonal_functor"" title=""Diagonal functor"">diagonal functor</a> is the functor
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Delta :C\to \mathbf {Fct} (I,C),\,A\mapsto \Delta _{A}}"">
   <semantics>
@@ -1365,8 +1365,8 @@ that sends each object <i>A</i> to the constant functor with value <i>A</i> and 
     <annotation encoding=""application/x-tex"">{\displaystyle \Delta _{f,i}:\Delta _{A}(i)=A\to \Delta _{B}(i)=B}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/09dae270f29276c39c04981f58825b2d3320b874"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:31.392ex; height:3.009ex;"" alt=""\Delta _{f,i}:\Delta _{A}(i)=A\to \Delta _{B}(i)=B""/></span> that is <i>f</i> at each <i>i</i>.</dd>
-
-<dt class=""glossary"" id=""diagram"" style=""margin-top: 0.4em;""><dfn class=""glossary"">diagram</dfn></dt>
+"
+"<dt class=""glossary"" id=""diagram"" style=""margin-top: 0.4em;""><dfn class=""glossary"">diagram</dfn></dt>"¬"
 <dd class=""glossary"">Given a category <i>C</i>, a <a href=""https://en.wikipedia.org/wiki/Diagram_(category_theory)"" title=""Diagram (category theory)"">diagram</a> in <i>C</i> is a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:I\to C}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1381,28 +1381,28 @@ that sends each object <i>A</i> to the constant functor with value <i>A</i> and 
     <annotation encoding=""application/x-tex"">{\displaystyle f:I\to C}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/9271e0d23650020d206dcdb2277513962308597f"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:9.768ex; height:2.509ex;"" alt=""f:I\to C""/></span> from a small category <i>I</i>.</dd>
-
-<dt class=""glossary"" id=""differential_graded_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">differential graded category</dfn></dt>
+"
+"<dt class=""glossary"" id=""differential_graded_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">differential graded category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Differential_graded_category"" title=""Differential graded category"">differential graded category</a> is a category whose Hom sets are equipped with structures of <a href=""https://en.wikipedia.org/wiki/Differential_graded_module"" title=""Differential graded module"">differential graded modules</a>. In particular, if the category has only one object, it is the same as a differential graded module.</dd>
-
-<dt class=""glossary"" id=""direct_limit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">direct limit</dfn></dt>
+"
+"<dt class=""glossary"" id=""direct_limit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">direct limit</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Direct_limit"" title=""Direct limit"">direct limit</a> is the <a href=""https://en.wikipedia.org/wiki/Colimit"" class=""mw-redirect"" title=""Colimit"">colimit</a> of a <a href=""https://en.wikipedia.org/wiki/Direct_system"" class=""mw-redirect"" title=""Direct system"">direct system</a>.</dd>
-
-<dt class=""glossary"" id=""discrete"" style=""margin-top: 0.4em;""><dfn class=""glossary"">discrete</dfn></dt>
+"
+"<dt class=""glossary"" id=""discrete"" style=""margin-top: 0.4em;""><dfn class=""glossary"">discrete</dfn></dt>"¬"
 <dd class=""glossary"">A category is <a href=""https://en.wikipedia.org/wiki/Discrete_category"" title=""Discrete category"">discrete</a> if each morphism is an identity morphism (of some object). For example, a set can be viewed as a discrete category.</dd>
-
-<dt class=""glossary"" id=""distributor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">distributor</dfn></dt>
+"
+"<dt class=""glossary"" id=""distributor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">distributor</dfn></dt>"¬"
 <dd class=""glossary"">Another term for ""profunctor"".</dd>
-
-<dt class=""glossary"" id=""dwyer–kan_equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Dwyer–Kan equivalence</dfn></dt>
-<dd class=""glossary"">A <a href=""https://en.wikipedia.org/w/index.php?title=Dwyer%E2%80%93Kan_equivalence&amp;action=edit&amp;redlink=1"" class=""new"" title=""Dwyer–Kan equivalence (page does not exist)"">Dwyer–Kan equivalence</a> is a generalization of an equivalence of categories to the simplicial context.<sup id=""cite_ref-6"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-6"">&#91;6&#93;</a></sup></dd>
-<dt class=""glossary"" id=""eilenberg–moore_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Eilenberg–Moore category</dfn></dt>
+"
+"<dt class=""glossary"" id=""dwyer–kan_equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Dwyer–Kan equivalence</dfn></dt>"¬"
+<dd class=""glossary"">A <a href=""https://en.wikipedia.org/w/index.php?title=Dwyer%E2%80%93Kan_equivalence&amp;action=edit&amp;redlink=1"" class=""new"" title=""Dwyer–Kan equivalence (page does not exist)"">Dwyer–Kan equivalence</a> is a generalization of an equivalence of categories to the simplicial context.<sup id=""cite_ref-6"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-6"">&#91;6&#93;</a></sup></dd>"
+"<dt class=""glossary"" id=""eilenberg–moore_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Eilenberg–Moore category</dfn></dt>"¬"
 <dd class=""glossary"">Another name for the category of <a href=""https://en.wikipedia.org/wiki/Algebra_for_a_monad"" class=""mw-redirect"" title=""Algebra for a monad"">algebras for a given monad</a>.</dd>
-
-<dt class=""glossary"" id=""empty"" style=""margin-top: 0.4em;""><dfn class=""glossary"">empty</dfn></dt>
+"
+"<dt class=""glossary"" id=""empty"" style=""margin-top: 0.4em;""><dfn class=""glossary"">empty</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Empty_category_(category_theory)"" class=""mw-redirect"" title=""Empty category (category theory)"">empty category</a> is a category with no object. It is the same thing as the <a href=""https://en.wikipedia.org/wiki/Empty_set"" title=""Empty set"">empty set</a> when the empty set is viewed as a discrete category.</dd>
-
-<dt class=""glossary"" id=""end"" style=""margin-top: 0.4em;""><dfn class=""glossary"">end</dfn></dt>
+"
+"<dt class=""glossary"" id=""end"" style=""margin-top: 0.4em;""><dfn class=""glossary"">end</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/End_(category_theory)"" title=""End (category theory)"">end</a> of a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle F:C^{\text{op}}\times C\to X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1685,11 +1685,11 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/85cf0a5a6aec09700ea29be3f20b8f6d16247734"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -2.338ex; width:21.854ex; height:5.676ex;"" alt=""\int _{c\in C}\operatorname {Hom} (F(c),G(c))""/></span></dd></dl>
 is the set of natural transformations from <i>F</i> to <i>G</i>. For more examples, see <a rel=""nofollow"" class=""external text"" href=""https://mathoverflow.net/q/78471"">this mathoverflow thread</a>. The dual of an end is a coend.</dd>
-
-<dt class=""glossary"" id=""endofunctor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">endofunctor</dfn></dt>
+"
+"<dt class=""glossary"" id=""endofunctor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">endofunctor</dfn></dt>"¬"
 <dd class=""glossary"">A functor between the same category.</dd>
-
-<dt class=""glossary"" id=""enriched_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">enriched category</dfn></dt>
+"
+"<dt class=""glossary"" id=""enriched_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">enriched category</dfn></dt>"¬"
 <dd class=""glossary"">Given a monoidal category (<i>C</i>, ⊗, 1), a <a href=""https://en.wikipedia.org/wiki/Category_enriched"" class=""mw-redirect"" title=""Category enriched"">category enriched</a> over <i>C</i> is, informally, a category whose Hom sets are in <i>C</i>. More precisely, a category <i>D</i> enriched over <i>C</i> is a data consisting of
 <ol><li>A class of objects,</li>
 <li>For each pair of objects <i>X</i>, <i>Y</i> in <i>D</i>, an object <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Map} _{D}(X,Y)}"">
@@ -1797,8 +1797,8 @@ is the set of natural transformations from <i>F</i> to <i>G</i>. For more exampl
 subject to the conditions that (roughly) the compositions are associative and the unit morphisms act as the multiplicative identity.
 
 For example, a category enriched over sets is an ordinary category.</dd>
-
-<dt class=""glossary"" id=""epimorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">epimorphism</dfn></dt>
+"
+"<dt class=""glossary"" id=""epimorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">epimorphism</dfn></dt>"¬"
 <dd class=""glossary"">A morphism <i>f</i> is an <a href=""https://en.wikipedia.org/wiki/Epimorphism"" title=""Epimorphism"">epimorphism</a> if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle g=h}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1826,8 +1826,8 @@ For example, a category enriched over sets is an ordinary category.</dd>
     <annotation encoding=""application/x-tex"">{\displaystyle g\circ f=h\circ f}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/6684a08ba3c9d443fa7fd91c5da2831846cd4f4e"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:12.5ex; height:2.509ex;"" alt=""g\circ f=h\circ f""/></span>. In other words, <i>f</i> is the dual of a monomorphism.</dd>
-
-<dt class=""glossary"" id=""equalizer"" style=""margin-top: 0.4em;""><dfn class=""glossary"">equalizer</dfn></dt>
+"
+"<dt class=""glossary"" id=""equalizer"" style=""margin-top: 0.4em;""><dfn class=""glossary"">equalizer</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Equalizer_(mathematics)"" class=""mw-redirect"" title=""Equalizer (mathematics)"">equalizer</a> of a pair of morphisms <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f,g:A\to B}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1844,18 +1844,18 @@ For example, a category enriched over sets is an ordinary category.</dd>
     <annotation encoding=""application/x-tex"">{\displaystyle f,g:A\to B}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/17911b4e8e6a2f58d32826d24e9f879918303975"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:12.487ex; height:2.509ex;"" alt=""f,g:A\to B""/></span> is the limit of the pair. It is the dual of a coequalizer.</dd>
-
-<dt class=""glossary"" id=""equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">equivalence</dfn></dt>
+"
+"<dt class=""glossary"" id=""equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">equivalence</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A functor is an <a href=""https://en.wikipedia.org/wiki/Equivalence_of_categories"" title=""Equivalence of categories"">equivalence</a> if it is faithful, full and essentially surjective.</dd>
 <dd class=""glossary"">2.&#160;&#160;A morphism in an ∞-category <i>C</i>  is an equivalence if it gives an isomorphism in the homotopy category of <i>C</i>.</dd>
-
-<dt class=""glossary"" id=""equivalent"" style=""margin-top: 0.4em;""><dfn class=""glossary"">equivalent</dfn></dt>
+"
+"<dt class=""glossary"" id=""equivalent"" style=""margin-top: 0.4em;""><dfn class=""glossary"">equivalent</dfn></dt>"¬"
 <dd class=""glossary"">A category is equivalent to another category if there is an <a href=""https://en.wikipedia.org/wiki/Equivalence_of_categories"" title=""Equivalence of categories"">equivalence</a> between them.</dd>
-
-<dt class=""glossary"" id=""essentially_surjective"" style=""margin-top: 0.4em;""><dfn class=""glossary"">essentially surjective</dfn></dt>
+"
+"<dt class=""glossary"" id=""essentially_surjective"" style=""margin-top: 0.4em;""><dfn class=""glossary"">essentially surjective</dfn></dt>"¬"
 <dd class=""glossary"">A functor <i>F</i> is called <a href=""https://en.wikipedia.org/w/index.php?title=Essentially_surjective&amp;action=edit&amp;redlink=1"" class=""new"" title=""Essentially surjective (page does not exist)"">essentially surjective</a> (or isomorphism-dense) if for every object <i>B</i> there exists an object <i>A</i> such that <i>F</i>(<i>A</i>) is isomorphic to <i>B</i>.</dd>
-
-<dt class=""glossary"" id=""evaluation"" style=""margin-top: 0.4em;""><dfn class=""glossary"">evaluation</dfn></dt>
+"
+"<dt class=""glossary"" id=""evaluation"" style=""margin-top: 0.4em;""><dfn class=""glossary"">evaluation</dfn></dt>"¬"
 <dd class=""glossary"">Given categories <i>C</i>, <i>D</i> and an object <i>A</i> in <i>C</i>, the <a href=""https://en.wikipedia.org/w/index.php?title=Evaluation_(category_theory)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Evaluation (category theory) (page does not exist)"">evaluation</a> at <i>A</i> is the functor
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbf {Fct} (C,D)\to D,\,\,F\mapsto F(A).}"">
   <semantics>
@@ -1888,11 +1888,11 @@ For example, a category enriched over sets is an ordinary category.</dd>
     <annotation encoding=""application/x-tex"">{\displaystyle \mathbf {Fct} (C,D)\to D,\,\,F\mapsto F(A).}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/baf3f750d84d4ff1cef0ce11e3f13902d2dda7c0"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:29.085ex; height:2.843ex;"" alt=""{\displaystyle \mathbf {Fct} (C,D)\to D,\,\,F\mapsto F(A).}""/></span></dd></dl>
-For example, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steenrod_axioms"" title=""Eilenberg–Steenrod axioms"">Eilenberg–Steenrod axioms</a> give an instance when the functor is an equivalence.</dd>
-<dt class=""glossary"" id=""faithful"" style=""margin-top: 0.4em;""><dfn class=""glossary"">faithful</dfn></dt>
+For example, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steenrod_axioms"" title=""Eilenberg–Steenrod axioms"">Eilenberg–Steenrod axioms</a> give an instance when the functor is an equivalence.</dd>"
+"<dt class=""glossary"" id=""faithful"" style=""margin-top: 0.4em;""><dfn class=""glossary"">faithful</dfn></dt>"¬"
 <dd class=""glossary"">A functor is <a href=""https://en.wikipedia.org/wiki/Faithful_functor"" class=""mw-redirect"" title=""Faithful functor"">faithful</a> if it is injective when restricted to each <a href=""https://en.wikipedia.org/wiki/Hom-set"" class=""mw-redirect"" title=""Hom-set"">hom-set</a>.</dd>
-
-<dt class=""glossary"" id=""fundamental_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fundamental category</dfn></dt>
+"
+"<dt class=""glossary"" id=""fundamental_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fundamental category</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/w/index.php?title=Fundamental_category_functor&amp;action=edit&amp;redlink=1"" class=""new"" title=""Fundamental category functor (page does not exist)"">fundamental category functor</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau _{1}:s\mathbf {Set} \to \mathbf {Cat} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1939,8 +1939,8 @@ For example, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steen
     <annotation encoding=""application/x-tex"">{\displaystyle \tau _{1}NC=C}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ff414cc668473834cdaa7cb9b0c021e8eea3252c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:10.765ex; height:2.509ex;"" alt=""{\displaystyle \tau _{1}NC=C}""/></span>.</dd>
-
-<dt class=""glossary"" id=""fundamental_groupoid"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fundamental groupoid</dfn></dt>
+"
+"<dt class=""glossary"" id=""fundamental_groupoid"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fundamental groupoid</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Fundamental_groupoid"" title=""Fundamental groupoid"">fundamental groupoid</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Pi _{1}X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1989,11 +1989,11 @@ For example, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steen
     <annotation encoding=""application/x-tex"">{\displaystyle \Delta ^{1}\to X}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d5f957f28ce7df560e9b8f38489abc0e663e7239"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:8.584ex; height:2.676ex;"" alt=""{\displaystyle \Delta ^{1}\to X}""/></span> and a composition is determined by the Kan property.</dd>
-
-<dt class=""glossary"" id=""fibered_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fibered category</dfn></dt>
+"
+"<dt class=""glossary"" id=""fibered_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fibered category</dfn></dt>"¬"
 <dd class=""glossary"">A functor π: <i>C</i> → <i>D</i> is said to exhibit <i>C</i> as a <a href=""https://en.wikipedia.org/wiki/Fibered_category"" class=""mw-redirect"" title=""Fibered category"">category fibered over</a> <i>D</i> if, for each morphism <i>g</i>: <i>x</i> → π(<i>y</i>) in <i>D</i>, there exists a π-cartesian morphism <i>f</i>: <i>x'</i> → <i>y</i> in <i>C</i> such that π(<i>f</i>) = <i>g</i>. If <i>D</i> is the category of affine schemes (say of finite type over some field), then π is more commonly called a <a href=""https://en.wikipedia.org/wiki/Prestack"" title=""Prestack"">prestack</a>. <b>Note</b>: π is often a forgetful functor and in fact the <a href=""https://en.wikipedia.org/wiki/Grothendieck_construction"" title=""Grothendieck construction"">Grothendieck construction</a> implies that every fibered category can be taken to be that form (up to equivalences in a suitable sense).</dd>
-
-<dt class=""glossary"" id=""fiber_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fiber product</dfn></dt>
+"
+"<dt class=""glossary"" id=""fiber_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fiber product</dfn></dt>"¬"
 <dd class=""glossary"">Given a category <i>C</i> and a set <i>I</i>, the <a href=""https://en.wikipedia.org/wiki/Fiber_product"" class=""mw-redirect"" title=""Fiber product"">fiber product</a> over an object <i>S</i> of a family of objects <i>X</i><sub><i>i</i></sub> in <i>C</i> indexed by <i>I</i> is the product of the family in the <a href=""https://en.wikipedia.org/wiki/Slice_category"" class=""mw-redirect"" title=""Slice category"">slice category</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle C_{/S}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2044,8 +2044,8 @@ For example, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steen
     <annotation encoding=""application/x-tex"">{\displaystyle X\times _{S}Y}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/420355afb0bca3f6051b50875bb0cc841b549eb8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:7.886ex; height:2.509ex;"" alt=""X\times _{S}Y""/></span> and is also called a <a href=""https://en.wikipedia.org/wiki/Cartesian_square"" class=""mw-redirect"" title=""Cartesian square"">Cartesian square</a>.</dd>
-
-<dt class=""glossary"" id=""filtered"" style=""margin-top: 0.4em;""><dfn class=""glossary"">filtered</dfn></dt>
+"
+"<dt class=""glossary"" id=""filtered"" style=""margin-top: 0.4em;""><dfn class=""glossary"">filtered</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A <a href=""https://en.wikipedia.org/wiki/Filtered_category"" title=""Filtered category"">filtered category</a> (also called a filtrant category) is a nonempty category with the properties (1) given objects <i>i</i> and <i>j</i>, there are an object <i>k</i> and morphisms <i>i</i> → <i>k</i> and <i>j</i> → <i>k</i> and (2) given morphisms <i>u</i>, <i>v</i>: <i>i</i> → <i>j</i>, there are an object <i>k</i> and a morphism <i>w</i>: <i>j</i> → <i>k</i> such that <i>w</i> ∘ <i>u</i> = <i>w</i> ∘ <i>v</i>. A category <i>I</i> is filtered if and only if, for each finite category <i>J</i> and functor <i>f</i>: <i>J</i> → <i>I</i>, the set <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \varprojlim \operatorname {Hom} (f(j),i)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2098,14 +2098,14 @@ For example, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steen
     <annotation encoding=""application/x-tex"">{\displaystyle \varprojlim \operatorname {Hom} (f(j),i)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f88ebf341bdcdf3bb993a6d22a51acb022b2b3b2"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.637ex; margin-bottom: -0.367ex; width:16.345ex; height:4.009ex;"" alt=""\varprojlim \operatorname {Hom} (f(j),i)""/></span> is nonempty for some object <i>i</i> in <i>I</i>.</dd>
-
-<dt class=""glossary"" id=""finitary_monad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">finitary monad</dfn></dt>
+"
+"<dt class=""glossary"" id=""finitary_monad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">finitary monad</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/w/index.php?title=Finitary_monad&amp;action=edit&amp;redlink=1"" class=""new"" title=""Finitary monad (page does not exist)"">finitary monad</a> or an algebraic monad is a monad on <b>Set</b> whose underlying endofunctor commutes with filtered colimits.</dd>
-
-<dt class=""glossary"" id=""finite"" style=""margin-top: 0.4em;""><dfn class=""glossary"">finite</dfn></dt>
+"
+"<dt class=""glossary"" id=""finite"" style=""margin-top: 0.4em;""><dfn class=""glossary"">finite</dfn></dt>"¬"
 <dd class=""glossary"">A category is finite if it has only finitely many morphisms.</dd>
-
-<dt class=""glossary"" id=""forgetful_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">forgetful functor</dfn></dt>
+"
+"<dt class=""glossary"" id=""forgetful_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">forgetful functor</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Forgetful_functor"" title=""Forgetful functor"">forgetful functor</a> is, roughly, a functor that loses some of data of the objects; for example, the functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbf {Grp} \to \mathbf {Set} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2126,21 +2126,21 @@ For example, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steen
     <annotation encoding=""application/x-tex"">{\displaystyle \mathbf {Grp} \to \mathbf {Set} }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/30dbb1a1256ddef855212e8e5d28764c4d22e0ef"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:12.052ex; height:2.509ex;"" alt=""\mathbf {Grp} \to \mathbf {Set} ""/></span> that sends a group to its underlying set and a group homomorphism to itself is a forgetful functor.</dd>
-
-<dt class=""glossary"" id=""free_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">free functor</dfn></dt>
+"
+"<dt class=""glossary"" id=""free_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">free functor</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Free_functor"" class=""mw-redirect"" title=""Free functor"">free functor</a> is a left adjoint to a forgetful functor. For example, for a ring <i>R</i>, the functor that sends a set <i>X</i> to the <a href=""https://en.wikipedia.org/wiki/Free_module"" title=""Free module"">free <i>R</i>-module</a> generated by <i>X</i> is a free functor (whence the name).</dd>
-
-<dt class=""glossary"" id=""frobenius_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Frobenius category</dfn></dt>
+"
+"<dt class=""glossary"" id=""frobenius_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Frobenius category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Frobenius_category"" title=""Frobenius category"">Frobenius category</a> is an <a href=""https://en.wikipedia.org/wiki/Exact_category"" title=""Exact category"">exact category</a> that has enough injectives and enough projectives and such that the class of injective objects coincides with that of projective objects.</dd>
-
-<dt class=""glossary"" id=""fukaya_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Fukaya category</dfn></dt>
+"
+"<dt class=""glossary"" id=""fukaya_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Fukaya category</dfn></dt>"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Fukaya_category"" title=""Fukaya category"">Fukaya category</a>.</dd>
-
-<dt class=""glossary"" id=""full"" style=""margin-top: 0.4em;""><dfn class=""glossary"">full</dfn></dt>
+"
+"<dt class=""glossary"" id=""full"" style=""margin-top: 0.4em;""><dfn class=""glossary"">full</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A functor is <a href=""https://en.wikipedia.org/wiki/Full_functor"" class=""mw-redirect"" title=""Full functor"">full</a> if it is surjective when restricted to each <a href=""https://en.wikipedia.org/wiki/Hom-set"" class=""mw-redirect"" title=""Hom-set"">hom-set</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;A category <i>A</i> is a <a href=""https://en.wikipedia.org/wiki/Full_subcategory"" class=""mw-redirect"" title=""Full subcategory"">full subcategory</a> of a category <i>B</i> if the inclusion functor from <i>A</i> to <i>B</i> is full.</dd>
-
-<dt class=""glossary"" id=""functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">functor</dfn></dt>
+"
+"<dt class=""glossary"" id=""functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">functor</dfn></dt>"¬"
 <dd class=""glossary"">Given categories <i>C</i>, <i>D</i>, a <a href=""https://en.wikipedia.org/wiki/Functor"" title=""Functor"">functor</a> <i>F</i> from <i>C</i> to <i>D</i> is a structure-preserving map from <i>C</i> to <i>D</i>; i.e., it consists of an object <i>F</i>(<i>x</i>) in <i>D</i> for each object <i>x</i> in <i>C</i> and a morphism <i>F</i>(<i>f</i>) in <i>D</i> for each morphism <i>f</i> in <i>C</i> satisfying the conditions: (1) <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle F(f\circ g)=F(f)\circ F(g)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2330,8 +2330,8 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
     <annotation encoding=""application/x-tex"">{\displaystyle {\mathfrak {P}}(f)(A)=f(A)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4aa8d94921420c9c30ff08098234c57745020e5c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:16.494ex; height:2.843ex;"" alt=""{\mathfrak {P}}(f)(A)=f(A)""/></span>.</dd>
-
-<dt class=""glossary"" id=""functor_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">functor category</dfn></dt>
+"
+"<dt class=""glossary"" id=""functor_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">functor category</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Functor_category"" title=""Functor category"">functor category</a> <b>Fct</b>(<i>C</i>, <i>D</i>) or <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle D^{C}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2347,11 +2347,11 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
     <annotation encoding=""application/x-tex"">{\displaystyle D^{C}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/108456f7fa636edcc6227f68cd48cade449ab356"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.406ex; height:2.676ex;"" alt=""{\displaystyle D^{C}}""/></span> from a category <i>C</i> to a category <i>D</i> is the category where the objects are all the functors from <i>C</i> to <i>D</i> and the morphisms are all the natural transformations between the functors.</dd>
-
-<dt class=""glossary"" id=""gabriel–popescu_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Gabriel–Popescu theorem</dfn></dt>
+"
+"<dt class=""glossary"" id=""gabriel–popescu_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Gabriel–Popescu theorem</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Gabriel%E2%80%93Popescu_theorem"" title=""Gabriel–Popescu theorem"">Gabriel–Popescu theorem</a> says an abelian category is a <a href=""https://en.wikipedia.org/wiki/Serre_quotient_category"" class=""mw-redirect"" title=""Serre quotient category"">quotient</a> of the category of modules.</dd>
-
-<dt class=""glossary"" id=""generator"" style=""margin-top: 0.4em;""><dfn class=""glossary"">generator</dfn></dt>
+"
+"<dt class=""glossary"" id=""generator"" style=""margin-top: 0.4em;""><dfn class=""glossary"">generator</dfn></dt>"¬"
 <dd class=""glossary"">In a category <i>C</i>, a family of objects <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle G_{i},i\in I}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2401,14 +2401,14 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
     <annotation encoding=""application/x-tex"">{\displaystyle X\mapsto \prod _{i\in I}\operatorname {Hom} (G_{i},X)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c7dac787fdc4e4d81c8ebae1e714fa84057c09ca"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.171ex; width:21.242ex; height:5.676ex;"" alt=""X\mapsto \prod _{i\in I}\operatorname {Hom} (G_{i},X)""/></span> is conservative. Its dual is called a system of cogenerators.</dd>
-
-<dt class=""glossary"" id=""grothendieck&#39;s_galois_theory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Grothendieck's Galois theory</dfn></dt>
+"
+"<dt class=""glossary"" id=""grothendieck&#39;s_galois_theory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Grothendieck's Galois theory</dfn></dt>"¬"
 <dd class=""glossary"">A category-theoretic generalization of <a href=""https://en.wikipedia.org/wiki/Galois_theory"" title=""Galois theory"">Galois theory</a>; see <a href=""https://en.wikipedia.org/wiki/Grothendieck%27s_Galois_theory"" title=""Grothendieck&#39;s Galois theory"">Grothendieck's Galois theory</a>.</dd>
-
-<dt class=""glossary"" id=""grothendieck_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Grothendieck category</dfn></dt>
+"
+"<dt class=""glossary"" id=""grothendieck_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Grothendieck category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Grothendieck_category"" title=""Grothendieck category"">Grothendieck category</a> is a certain well-behaved kind of an abelian category.</dd>
-
-<dt class=""glossary"" id=""grothendieck_construction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Grothendieck construction</dfn></dt>
+"
+"<dt class=""glossary"" id=""grothendieck_construction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Grothendieck construction</dfn></dt>"¬"
 <dd class=""glossary"">Given a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle U:C\to \mathbf {Cat} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2427,18 +2427,18 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
     <annotation encoding=""application/x-tex"">{\displaystyle U:C\to \mathbf {Cat} }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/75b03cd393ad3644f3c186164e5ce294e34147f3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:13.37ex; height:2.176ex;"" alt=""U:C\to \mathbf {Cat} ""/></span>, let <i>D</i><sub><i>U</i></sub> be the category where the objects are pairs (<i>x</i>, <i>u</i>) consisting of an object <i>x</i> in <i>C</i> and an object <i>u</i> in the category <i>U</i>(<i>x</i>) and a morphism from (<i>x</i>, <i>u</i>) to (<i>y</i>, <i>v</i>) is a pair consisting of a morphism <i>f</i>: <i>x</i> → <i>y</i> in <i>C</i> and a morphism <i>U</i>(<i>f</i>)(<i>u</i>) → <i>v</i> in <i>U</i>(<i>y</i>). The passage from <i>U</i> to <i>D</i><sub><i>U</i></sub> is then called the <a href=""https://en.wikipedia.org/wiki/Grothendieck_construction"" title=""Grothendieck construction"">Grothendieck construction</a>.</dd>
-
-<dt class=""glossary"" id=""grothendieck_fibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Grothendieck fibration</dfn></dt>
+"
+"<dt class=""glossary"" id=""grothendieck_fibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Grothendieck fibration</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Fibered_category"" class=""mw-redirect"" title=""Fibered category"">fibered category</a>.</dd>
-
-<dt class=""glossary"" id=""groupoid"" style=""margin-top: 0.4em;""><dfn class=""glossary"">groupoid</dfn></dt>
+"
+"<dt class=""glossary"" id=""groupoid"" style=""margin-top: 0.4em;""><dfn class=""glossary"">groupoid</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A category is called a <a href=""https://en.wikipedia.org/wiki/Groupoid"" title=""Groupoid"">groupoid</a> if every morphism in it is an isomorphism.</dd>
 <dd class=""glossary"">2.&#160;&#160;An ∞-category is called an <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-groupoid"" title=""∞-groupoid"">∞-groupoid</a> if every morphism in it is an equivalence (or equivalently if it is a <a href=""https://en.wikipedia.org/wiki/Kan_complex"" class=""mw-redirect"" title=""Kan complex"">Kan complex</a>.)</dd>
-
-<dt class=""glossary"" id=""hall_algebra_of_a_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Hall algebra of a category</dfn></dt>
+"
+"<dt class=""glossary"" id=""hall_algebra_of_a_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Hall algebra of a category</dfn></dt>"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Ringel%E2%80%93Hall_algebra"" title=""Ringel–Hall algebra"">Ringel–Hall algebra</a>.</dd>
-
-<dt class=""glossary"" id=""heart"" style=""margin-top: 0.4em;""><dfn class=""glossary"">heart</dfn></dt>
+"
+"<dt class=""glossary"" id=""heart"" style=""margin-top: 0.4em;""><dfn class=""glossary"">heart</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Heart_(category_theory)"" class=""mw-redirect"" title=""Heart (category theory)"">heart</a> of a <a href=""https://en.wikipedia.org/wiki/T-structure"" title=""T-structure"">t-structure</a> (<span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle D^{\geq 0}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2493,19 +2493,19 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
     <annotation encoding=""application/x-tex"">{\displaystyle D^{\geq 0}\cap D^{\leq 0}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0d8d9e73492542263789ad64537c74ab18496d4f"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:11.097ex; height:2.676ex;"" alt=""{\displaystyle D^{\geq 0}\cap D^{\leq 0}}""/></span>. It is an abelian category.</dd>
-
-<dt class=""glossary"" id=""higher_category_theory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Higher category theory</dfn></dt>
+"
+"<dt class=""glossary"" id=""higher_category_theory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Higher category theory</dfn></dt>"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Higher_category_theory"" title=""Higher category theory"">Higher category theory</a> is a subfield of category theory that concerns the study of <a href=""https://en.wikipedia.org/wiki/N-category"" class=""mw-redirect"" title=""N-category""><i>n</i>-categories</a> and <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-categories"" class=""mw-redirect"" title=""∞-categories"">∞-categories</a>.</dd>
-
-<dt class=""glossary"" id=""homological_dimension"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homological dimension</dfn></dt>
+"
+"<dt class=""glossary"" id=""homological_dimension"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homological dimension</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Homological_dimension"" title=""Homological dimension"">homological dimension</a> of an abelian category with enough injectives is the least non-negativer integer <i>n</i> such that every object in the category admits an injective resolution of length at most <i>n</i>. The dimension is ∞ if no such integer exists. For example, the homological dimension of <a href=""https://en.wikipedia.org/wiki/Category_of_modules"" title=""Category of modules"">Mod<sub><i>R</i></sub></a> with a principal ideal domain <i>R</i> is at most one.</dd>
-
-<dt class=""glossary"" id=""homotopy_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy category</dfn></dt>
+"
+"<dt class=""glossary"" id=""homotopy_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy category</dfn></dt>"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Homotopy_category"" title=""Homotopy category"">homotopy category</a>. It is closely related to a <a href=""https://en.wikipedia.org/wiki/Localization_of_a_category"" title=""Localization of a category"">localization of a category</a>.</dd>
-
-<dt class=""glossary"" id=""homotopy_hypothesis"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy hypothesis</dfn></dt>
-<dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Homotopy_hypothesis"" title=""Homotopy hypothesis"">homotopy hypothesis</a> states an <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-groupoid"" title=""∞-groupoid"">∞-groupoid</a> is a space (less equivocally, an <i>n</i>-groupoid can be used as a homotopy <i>n</i>-type.)</dd>
-<dt class=""glossary"" id=""identity"" style=""margin-top: 0.4em;""><dfn class=""glossary"">identity</dfn></dt>
+"
+"<dt class=""glossary"" id=""homotopy_hypothesis"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy hypothesis</dfn></dt>"¬"
+<dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Homotopy_hypothesis"" title=""Homotopy hypothesis"">homotopy hypothesis</a> states an <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-groupoid"" title=""∞-groupoid"">∞-groupoid</a> is a space (less equivocally, an <i>n</i>-groupoid can be used as a homotopy <i>n</i>-type.)</dd>"
+"<dt class=""glossary"" id=""identity"" style=""margin-top: 0.4em;""><dfn class=""glossary"">identity</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Identity_morphism"" class=""mw-redirect"" title=""Identity morphism"">identity morphism</a> <i>f</i> of an object <i>A</i> is a morphism from <i>A</i> to <i>A</i> such that for any morphisms <i>g</i> with domain <i>A</i> and <i>h</i> with codomain <i>A</i>, <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle g\circ f=g}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2535,8 +2535,8 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7371785d65317969d4719bbd3e1fad1d54a553b3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:9.25ex; height:2.509ex;"" alt=""f\circ h=h""/></span>.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Identity_functor"" class=""mw-redirect"" title=""Identity functor"">identity functor</a> on a category <i>C</i> is a functor from <i>C</i> to <i>C</i> that sends objects and morphisms to themselves.</dd>
 <dd class=""glossary"">3.&#160;&#160;Given a functor <i>F</i>: <i>C</i> → <i>D</i>, the <a href=""https://en.wikipedia.org/wiki/Identity_natural_transformation"" class=""mw-redirect"" title=""Identity natural transformation"">identity natural transformation</a> from <i>F</i> to <i>F</i> is a natural transformation consisting of the identity morphisms of <i>F</i>(<i>X</i>) in <i>D</i> for the objects <i>X</i> in <i>C</i>.</dd>
-
-<dt class=""glossary"" id=""image"" style=""margin-top: 0.4em;""><dfn class=""glossary"">image</dfn></dt>
+"
+"<dt class=""glossary"" id=""image"" style=""margin-top: 0.4em;""><dfn class=""glossary"">image</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Image_of_a_morphism"" class=""mw-redirect"" title=""Image of a morphism"">image</a> of a morphism <i>f</i>: <i>X</i> → <i>Y</i> is the equalizer of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle Y\rightrightarrows Y\sqcup _{X}Y}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2556,8 +2556,8 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
     <annotation encoding=""application/x-tex"">{\displaystyle Y\rightrightarrows Y\sqcup _{X}Y}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f59cc423b4b8d4658365473ffbe550063a17d5b0"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:13.149ex; height:2.509ex;"" alt=""{\displaystyle Y\rightrightarrows Y\sqcup _{X}Y}""/></span>.</dd>
-
-<dt class=""glossary"" id=""ind-limit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">ind-limit</dfn></dt>
+"
+"<dt class=""glossary"" id=""ind-limit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">ind-limit</dfn></dt>"¬"
 <dd class=""glossary"">A colimit (or inductive limit) in <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbf {Fct} (C^{\text{op}},\mathbf {Set} )}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2586,11 +2586,11 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
     <annotation encoding=""application/x-tex"">{\displaystyle \mathbf {Fct} (C^{\text{op}},\mathbf {Set} )}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/41677376119fdc5e92d1b122bb92ffb189c94228"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:14.269ex; height:2.843ex;"" alt=""\mathbf {Fct} (C^{\text{op}},\mathbf {Set} )""/></span>.</dd>
-
-<dt class=""glossary"" id=""inductive_limit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">inductive limit</dfn></dt>
+"
+"<dt class=""glossary"" id=""inductive_limit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">inductive limit</dfn></dt>"¬"
 <dd class=""glossary"">Another name for <a href=""https://en.wikipedia.org/wiki/Colimit"" class=""mw-redirect"" title=""Colimit"">colimit</a>.</dd>
-
-<dt class=""glossary"" id=""∞-category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">∞-category</dfn></dt>
+"
+"<dt class=""glossary"" id=""∞-category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">∞-category</dfn></dt>"¬"
 <dd class=""glossary"">An <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-category"" class=""mw-redirect"" title=""∞-category"">∞-category</a> <i>C</i> is a <a href=""https://en.wikipedia.org/wiki/Simplicial_set"" title=""Simplicial set"">simplicial set</a> satisfying the following condition: for each 0 &lt; <i>i</i> &lt; <i>n</i>,
 <ul><li>every map of simplicial sets <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:\Lambda _{i}^{n}\to C}"">
   <semantics>
@@ -2650,8 +2650,8 @@ where &#916;<sup><i>n</i></sup> is the standard <i>n</i>-simplex and <span class
     <annotation encoding=""application/x-tex"">{\displaystyle \Lambda _{i}^{n}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/e83ace72faae848b80156cd2412a563ba8a7b0d2"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:2.832ex; height:2.843ex;"" alt=""\Lambda _{i}^{n}""/></span> is obtained from &#916;<sup><i>n</i></sup> by removing the <i>i</i>-th face and the interior (see <a href=""https://en.wikipedia.org/wiki/Kan_fibration#Definition"" title=""Kan fibration"">Kan fibration#Definition</a>). For example, the <a href=""https://en.wikipedia.org/wiki/Nerve_of_a_category"" class=""mw-redirect"" title=""Nerve of a category"">nerve of a category</a> satisfies the condition and thus can be considered as an ∞-category.</dd>
-
-<dt class=""glossary"" id=""initial"" style=""margin-top: 0.4em;""><dfn class=""glossary"">initial</dfn></dt>
+"
+"<dt class=""glossary"" id=""initial"" style=""margin-top: 0.4em;""><dfn class=""glossary"">initial</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;An object <i>A</i> is <a href=""https://en.wikipedia.org/wiki/Initial_object"" class=""mw-redirect"" title=""Initial object"">initial</a> if there is exactly one morphism from <i>A</i> to each object; e.g., <a href=""https://en.wikipedia.org/wiki/Empty_set"" title=""Empty set"">empty set</a> in <b><a href=""https://en.wikipedia.org/wiki/Category_of_sets"" title=""Category of sets"">Set</a></b>.</dd>
 <dd class=""glossary"">2.&#160;&#160;An object <i>A</i> in an ∞-category <i>C</i> is initial if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Map} _{C}(A,B)}"">
   <semantics>
@@ -2674,8 +2674,8 @@ where &#916;<sup><i>n</i></sup> is the standard <i>n</i>-simplex and <span class
     <annotation encoding=""application/x-tex"">{\displaystyle \operatorname {Map} _{C}(A,B)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/88632c60099f646c43f42831070f3468005f9cbd"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:12.418ex; height:2.843ex;"" alt=""\operatorname {Map} _{C}(A,B)""/></span> is <a href=""https://en.wikipedia.org/wiki/Contractible_space"" title=""Contractible space"">contractible</a> for each object <i>B</i> in <i>C</i>.</dd>
-
-<dt class=""glossary"" id=""injective"" style=""margin-top: 0.4em;""><dfn class=""glossary"">injective</dfn></dt>
+"
+"<dt class=""glossary"" id=""injective"" style=""margin-top: 0.4em;""><dfn class=""glossary"">injective</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;An object <i>A</i> in an abelian category is <a href=""https://en.wikipedia.org/wiki/Injective_object"" title=""Injective object"">injective</a> if the functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Hom} (-,A)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2693,8 +2693,8 @@ where &#916;<sup><i>n</i></sup> is the standard <i>n</i>-simplex and <span class
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/457e7b81821e4854c980b5a6080a4ef066fcdd91"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:11.236ex; height:2.843ex;"" alt=""\operatorname {Hom} (-,A)""/></span> is exact. It is the dual of a projective object.</dd>
 <dd class=""glossary"">2.&#160;&#160;The term “injective limit” is another name for a <a href=""https://en.wikipedia.org/wiki/Direct_limit"" title=""Direct limit"">direct limit</a>.</dd>
-
-<dt class=""glossary"" id=""internal_hom"" style=""margin-top: 0.4em;""><dfn class=""glossary"">internal Hom</dfn></dt>
+"
+"<dt class=""glossary"" id=""internal_hom"" style=""margin-top: 0.4em;""><dfn class=""glossary"">internal Hom</dfn></dt>"¬"
 <dd class=""glossary"">Given a <a href=""https://en.wikipedia.org/wiki/Monoidal_category"" title=""Monoidal category"">monoidal category</a> (<i>C</i>, ⊗), the <a href=""https://en.wikipedia.org/wiki/Internal_Hom"" class=""mw-redirect"" title=""Internal Hom"">internal Hom</a> is a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle [-,-]:C^{\text{op}}\times C\to C}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2770,8 +2770,8 @@ where &#916;<sup><i>n</i></sup> is the standard <i>n</i>-simplex and <span class
     <annotation encoding=""application/x-tex"">{\displaystyle [M,N]=\operatorname {Hom} _{R}(M,N)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a02c244ef22174bc5796d25aa70faf83a2c05476"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:23.602ex; height:2.843ex;"" alt=""[M,N]=\operatorname {Hom} _{R}(M,N)""/></span>, the set of <i>R</i>-linear maps.</dd>
-
-<dt class=""glossary"" id=""inverse"" style=""margin-top: 0.4em;""><dfn class=""glossary"">inverse</dfn></dt>
+"
+"<dt class=""glossary"" id=""inverse"" style=""margin-top: 0.4em;""><dfn class=""glossary"">inverse</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A morphism <i>f</i> is an <a href=""https://en.wikipedia.org/wiki/Inverse_function"" title=""Inverse function"">inverse</a> to a morphism <i>g</i> if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle g\circ f}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2807,17 +2807,17 @@ where &#916;<sup><i>n</i></sup> is the standard <i>n</i>-simplex and <span class
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b2f61ca7838709fbae07dce9c0d513770f10cfae"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:4.589ex; height:2.509ex;"" alt=""f\circ g""/></span> is defined and is equal to the identity morphism on the domain of <i>g</i>, and similarly for a right inverse.</dd>
 <dd class=""glossary"">2.&#160;&#160;An <a href=""https://en.wikipedia.org/wiki/Inverse_limit"" title=""Inverse limit"">inverse limit</a> is the limit of an <a href=""https://en.wikipedia.org/wiki/Inverse_system"" class=""mw-redirect"" title=""Inverse system"">inverse system</a>.</dd>
-
-<dt class=""glossary"" id=""isomorphic"" style=""margin-top: 0.4em;""><dfn class=""glossary"">isomorphic</dfn></dt>
+"
+"<dt class=""glossary"" id=""isomorphic"" style=""margin-top: 0.4em;""><dfn class=""glossary"">isomorphic</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;An object is <a href=""https://en.wikipedia.org/wiki/Isomorphic"" class=""mw-redirect"" title=""Isomorphic"">isomorphic</a> to another object if there is an isomorphism between them.</dd>
 <dd class=""glossary"">2.&#160;&#160;A category is isomorphic to another category if there is an isomorphism between them.</dd>
-
-<dt class=""glossary"" id=""isomorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">isomorphism</dfn></dt>
-<dd class=""glossary"">A morphism <i>f</i> is an <a href=""https://en.wikipedia.org/wiki/Isomorphism"" title=""Isomorphism"">isomorphism</a> if there exists an <i>inverse</i> of <i>f</i>.</dd>
-<dt class=""glossary"" id=""kan_complex"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Kan complex</dfn></dt>
+"
+"<dt class=""glossary"" id=""isomorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">isomorphism</dfn></dt>"¬"
+<dd class=""glossary"">A morphism <i>f</i> is an <a href=""https://en.wikipedia.org/wiki/Isomorphism"" title=""Isomorphism"">isomorphism</a> if there exists an <i>inverse</i> of <i>f</i>.</dd>"
+"<dt class=""glossary"" id=""kan_complex"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Kan complex</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Kan_complex"" class=""mw-redirect"" title=""Kan complex"">Kan complex</a> is a <a href=""https://en.wikipedia.org/wiki/Fibrant_object"" title=""Fibrant object"">fibrant object</a> in the category of simplicial sets.</dd>
-
-<dt class=""glossary"" id=""kan_extension"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Kan extension</dfn></dt>
+"
+"<dt class=""glossary"" id=""kan_extension"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Kan extension</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;Given a category <i>C</i>, the left <a href=""https://en.wikipedia.org/wiki/Kan_extension"" title=""Kan extension"">Kan extension</a> functor along a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:I\to J}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2985,19 +2985,19 @@ where the colimit runs over all objects <span class=""mwe-math-element""><span c
     <annotation encoding=""application/x-tex"">{\displaystyle f^{*}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/190a73fde235865b8d2a783334f90194331c7f19"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:2.375ex; height:2.676ex;"" alt=""f^{*}""/></span>.</dd>
-
-<dt class=""glossary"" id=""ken_brown&#39;s_lemma"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Ken Brown's lemma</dfn></dt>
+"
+"<dt class=""glossary"" id=""ken_brown&#39;s_lemma"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Ken Brown's lemma</dfn></dt>"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Ken_Brown%27s_lemma&amp;action=edit&amp;redlink=1"" class=""new"" title=""Ken Brown&#39;s lemma (page does not exist)"">Ken Brown's lemma</a> is a lemma in the theory of model categories.</dd>
-
-<dt class=""glossary"" id=""kleisli_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Kleisli category</dfn></dt>
-<dd class=""glossary"">Given a monad <i>T</i>, the <a href=""https://en.wikipedia.org/wiki/Kleisli_category"" title=""Kleisli category"">Kleisli category</a> of <i>T</i> is the full subcategory of the category of <i>T</i>-algebras (called Eilenberg–Moore category) that consists of free <i>T</i>-algebras.</dd>
-<dt class=""glossary"" id=""lax"" style=""margin-top: 0.4em;""><dfn class=""glossary"">lax</dfn></dt>
+"
+"<dt class=""glossary"" id=""kleisli_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Kleisli category</dfn></dt>"¬"
+<dd class=""glossary"">Given a monad <i>T</i>, the <a href=""https://en.wikipedia.org/wiki/Kleisli_category"" title=""Kleisli category"">Kleisli category</a> of <i>T</i> is the full subcategory of the category of <i>T</i>-algebras (called Eilenberg–Moore category) that consists of free <i>T</i>-algebras.</dd>"
+"<dt class=""glossary"" id=""lax"" style=""margin-top: 0.4em;""><dfn class=""glossary"">lax</dfn></dt>"¬"
 <dd class=""glossary"">The term ""<a href=""https://en.wikipedia.org/wiki/Lax_functor"" title=""Lax functor"">lax functor</a>"" is essentially synonymous with ""<a href=""https://en.wikipedia.org/wiki/Pseudo-functor"" title=""Pseudo-functor"">pseudo-functor</a>"".</dd>
-
-<dt class=""glossary"" id=""length"" style=""margin-top: 0.4em;""><dfn class=""glossary"">length</dfn></dt>
+"
+"<dt class=""glossary"" id=""length"" style=""margin-top: 0.4em;""><dfn class=""glossary"">length</dfn></dt>"¬"
 <dd class=""glossary"">An object in an abelian category is said to have <span id=""finite_length""></span>finite length if it has a <a href=""https://en.wikipedia.org/wiki/Composition_series"" title=""Composition series"">composition series</a>. The maximum number of proper subobjects in any such composition series is called the <b>length</b> of <i>A</i>.<sup id=""cite_ref-8"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-8"">&#91;8&#93;</a></sup></dd>
-
-<dt class=""glossary"" id=""limit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">limit</dfn></dt>
+"
+"<dt class=""glossary"" id=""limit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">limit</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Limit_(category_theory)"" title=""Limit (category theory)"">limit</a> (or <a href=""https://en.wikipedia.org/wiki/Projective_limit"" class=""mw-redirect"" title=""Projective limit"">projective limit</a>) of a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:I^{\text{op}}\to \mathbf {Set} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3501,11 +3501,11 @@ where the colimit runs over all objects <span class=""mwe-math-element""><span c
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/21edd2e08a458921941b99ed1e20fbbce70d9a41"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:16.908ex; height:2.509ex;"" alt=""f=\alpha _{L}\circ f=\alpha _{X}""/></span>; i.e., <i>L</i> is a final object of <i>C</i>.
 </dd>
-
-<dt class=""glossary"" id=""localization_of_a_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">localization of a category</dfn></dt>
+"
+"<dt class=""glossary"" id=""localization_of_a_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">localization of a category</dfn></dt>"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Localization_of_a_category"" title=""Localization of a category"">localization of a category</a>.</dd>
-
-<dt class=""glossary"" id=""mittag-leffler_condition"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Mittag-Leffler condition</dfn></dt>
+"
+"<dt class=""glossary"" id=""mittag-leffler_condition"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Mittag-Leffler condition</dfn></dt>"¬"
 <dd class=""glossary"">An <a href=""https://en.wikipedia.org/wiki/Inverse_system"" class=""mw-redirect"" title=""Inverse system"">inverse system</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \cdots \to X_{2}\to X_{1}\to X_{0}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3613,8 +3613,8 @@ where the colimit runs over all objects <span class=""mwe-math-element""><span c
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f1da23816a3b68986049441c66526ce5a499b1ec"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:9.404ex; height:2.509ex;"" alt=""{\displaystyle X_{l}\to X_{n}}""/></span> are the same.</dd>
 
-
-<dt class=""glossary"" id=""monad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monad</dfn></dt>
+"
+"<dt class=""glossary"" id=""monad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monad</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Monad_(category_theory)"" title=""Monad (category theory)"">monad</a> in a category <i>X</i> is a <a href=""https://en.wikipedia.org/wiki/Monoid_object"" class=""mw-redirect"" title=""Monoid object"">monoid object</a> in the monoidal category of endofunctors of <i>X</i> with the monoidal structure given by composition. For example, given a group <i>G</i>, define an endofunctor <i>T</i> on <b>Set</b> by <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle T(X)=G\times X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3722,12 +3722,12 @@ and also define the identity map <i>η</i> in the analogous fashion. Then (<i>T<
     <annotation encoding=""application/x-tex"">{\displaystyle T=G\circ F}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/658aaf5bcf5d379b85de489e141031b419636b80"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:10.497ex; height:2.176ex;"" alt=""T=G\circ F""/></span>, the identity map <i>η</i> on <i>T</i> to be a unit of the adjunction and also defines <i>μ</i> using the adjunction.</dd>
-
-<dt class=""glossary"" id=""monadic"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monadic</dfn></dt>
+"
+"<dt class=""glossary"" id=""monadic"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monadic</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;An adjunction is said to be <a href=""https://en.wikipedia.org/wiki/Monadic_adjunction"" class=""mw-redirect"" title=""Monadic adjunction"">monadic</a> if it comes from the monad that it determines by means of the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Moore_category"" class=""mw-redirect"" title=""Eilenberg–Moore category"">Eilenberg–Moore category</a> (the category of algebras for the monad).</dd>
 <dd class=""glossary"">2.&#160;&#160;A functor is said to be <a href=""https://en.wikipedia.org/wiki/Monadic_functor"" class=""mw-redirect"" title=""Monadic functor"">monadic</a> if it is a constituent of a monadic adjunction.</dd>
-
-<dt class=""glossary"" id=""monoidal_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monoidal category</dfn></dt>
+"
+"<dt class=""glossary"" id=""monoidal_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monoidal category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Monoidal_category"" title=""Monoidal category"">monoidal category</a>, also called a tensor category, is a category <i>C</i> equipped with (1) a <a href=""https://en.wikipedia.org/wiki/Bifunctor"" class=""mw-redirect"" title=""Bifunctor"">bifunctor</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \otimes :C\times C\to C}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3744,11 +3744,11 @@ and also define the identity map <i>η</i> in the analogous fashion. Then (<i>T<
     <annotation encoding=""application/x-tex"">{\displaystyle \otimes :C\times C\to C}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d28e24da78ac0e7abe5ffffa235241c097ab5d2b"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.505ex; width:15.499ex; height:2.343ex;"" alt=""{\displaystyle \otimes :C\times C\to C}""/></span>, (2) an identity object and (3) natural isomorphisms that make ⊗ associative and the identity object an identity for ⊗, subject to certain coherence conditions.</dd>
-
-<dt class=""glossary"" id=""monoid_object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monoid object</dfn></dt>
+"
+"<dt class=""glossary"" id=""monoid_object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monoid object</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Monoid_object"" class=""mw-redirect"" title=""Monoid object"">monoid object</a> in a monoidal category is an object together with the multiplication map and the identity map that satisfy the expected conditions like associativity. For example, a monoid object in <b>Set</b> is a usual monoid (unital semigroup) and a monoid object in <b><a href=""https://en.wikipedia.org/wiki/Category_of_modules"" title=""Category of modules""><i>R</i>-mod</a></b> is an <a href=""https://en.wikipedia.org/wiki/Associative_algebra"" title=""Associative algebra"">associative algebra</a> over a commutative ring <i>R</i>.</dd>
-
-<dt class=""glossary"" id=""monomorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monomorphism</dfn></dt>
+"
+"<dt class=""glossary"" id=""monomorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">monomorphism</dfn></dt>"¬"
 <dd class=""glossary"">A morphism <i>f</i> is a <a href=""https://en.wikipedia.org/wiki/Monomorphism"" title=""Monomorphism"">monomorphism</a> (also called monic) if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle g=h}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3776,11 +3776,11 @@ and also define the identity map <i>η</i> in the analogous fashion. Then (<i>T<
     <annotation encoding=""application/x-tex"">{\displaystyle f\circ g=f\circ h}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/aced36b06004c1fe84cee7ee4647d6d0e3e0e442"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:12.5ex; height:2.509ex;"" alt=""f\circ g=f\circ h""/></span>; e.g., an <a href=""https://en.wikipedia.org/wiki/Injective_function"" title=""Injective function"">injection</a> in <b><a href=""https://en.wikipedia.org/wiki/Category_of_sets"" title=""Category of sets"">Set</a></b>. In other words, <i>f</i> is the dual of an epimorphism.</dd>
-
-<dt class=""glossary"" id=""multicategory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">multicategory</dfn></dt>
+"
+"<dt class=""glossary"" id=""multicategory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">multicategory</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Multicategory"" title=""Multicategory"">multicategory</a> is a generalization of a category in which a morphism is allowed to have more than one domain. It is the same thing as a <a href=""https://en.wikipedia.org/wiki/Colored_operad"" class=""mw-redirect"" title=""Colored operad"">colored operad</a>.<sup id=""cite_ref-9"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-9"">&#91;9&#93;</a></sup></dd>
-
-<dt class=""glossary"" id=""&#39;&#39;n&#39;&#39;-category"" style=""margin-top: 0.4em;""><dfn class=""glossary""><i>n</i>-category</dfn></dt>
+"
+"<dt class=""glossary"" id=""&#39;&#39;n&#39;&#39;-category"" style=""margin-top: 0.4em;""><dfn class=""glossary""><i>n</i>-category</dfn></dt>"¬"
 <div class=""quotebox pullquote floatright"" style=""width:33%;&#32;;""><style data-mw-deduplicate=""TemplateStyles:r887775652"">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%;max-width:100%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:""Times New Roman"",serif;font-weight:bold;font-size:large;color:gray;content:"" “ "";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:""Times New Roman"",serif;font-weight:bold;font-size:large;color:gray;content:"" ” "";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
 <div class=""quotebox-quote left-aligned"" style="""">[T]he issue of comparing definitions of weak <i>n</i>-category is a slippery one, as it is hard to say what it even <i>means</i> for two such definitions to be equivalent. [...] It is widely held that the structure formed by weak <i>n</i>-categories and the functors, transformations, ... between them should be a weak (<i>n</i> + 1)-category; and if this is the case then the question is whether your weak (<i>n</i> + 1)-category of weak <i>n-</i>categories is equivalent to mine—but whose definition of weak (<i>n</i> + 1)-category are we using here...&#160;?</div>
 <p><cite class=""left-aligned"" style="""">Tom Leinster,&#32;<a rel=""nofollow"" class=""external text"" href=""http://www.tac.mta.ca/tac/volumes/10/1/10-01abs.html"">A survey of definitions of <i>n</i>-category</a></cite>
@@ -3788,8 +3788,8 @@ and also define the identity map <i>η</i> in the analogous fashion. Then (<i>T<
 </div><dd class=""glossary"">1.&#160;&#160;A <a href=""https://en.wikipedia.org/wiki/Strict_n-category"" class=""mw-redirect"" title=""Strict n-category"">strict <i>n</i>-category</a> is defined inductively: a strict 0-category is a set and a strict <i>n</i>-category is a category whose Hom sets are strict (<i>n</i>-1)-categories. Precisely, a strict <i>n</i>-category is a category enriched over strict (<i>n</i>-1)-categories. For example, a strict 1-category is an ordinary category.</dd>
 <dd class=""glossary"">2.&#160;&#160;The notion of a <a href=""https://en.wikipedia.org/wiki/Weak_n-category"" title=""Weak n-category"">weak <i>n</i>-category</a> is obtained from the strict one by weakening the conditions like associativity of composition to hold only up to <a href=""https://en.wikipedia.org/wiki/Coherent_isomorphism"" class=""mw-redirect"" title=""Coherent isomorphism"">coherent isomorphisms</a> in the weak sense.</dd>
 <dd class=""glossary"">3.&#160;&#160;One can define an ∞-category as a kind of a colim of <i>n</i>-categories. Conversely, if one has the notion of a (weak) ∞-category (say a <a href=""https://en.wikipedia.org/wiki/Quasi-category"" title=""Quasi-category"">quasi-category</a>) in the beginning, then a weak <i>n</i>-category can be defined as a type of a truncated ∞-category.</dd>
-
-<dt class=""glossary"" id=""natural"" style=""margin-top: 0.4em;""><dfn class=""glossary"">natural</dfn></dt>
+"
+"<dt class=""glossary"" id=""natural"" style=""margin-top: 0.4em;""><dfn class=""glossary"">natural</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A natural transformation is, roughly, a map between functors. Precisely, given a pair of functors <i>F</i>, <i>G</i> from a category <i>C</i> to category <i>D</i>, a <a href=""https://en.wikipedia.org/wiki/Natural_transformation"" title=""Natural transformation"">natural transformation</a> φ from <i>F</i> to <i>G</i> is a set of morphisms in <i>D</i>
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \{\phi _{x}:F(x)\to G(x)\mid x\in \operatorname {Ob} (C)\}}"">
   <semantics>
@@ -3924,8 +3924,8 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a41d6b4f9b104c2e8f659319ddbd61792518ace2"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:4.628ex; height:2.509ex;"" alt=""GL_{n}""/></span> to -<sup>*</sup>.</dd>
 <dd class=""glossary"">2.&#160;&#160;A <a href=""https://en.wikipedia.org/wiki/Natural_isomorphism"" class=""mw-redirect"" title=""Natural isomorphism"">natural isomorphism</a> is a natural transformation that is an isomorphism (i.e., admits the inverse).</dd>
 
-<div class=""thumb tright""><div class=""thumbinner"" style=""width:95px;""><a href=""https://en.wikipedia.org/wiki/File:Nerve-2-simplex.png"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/d/d4/Nerve-2-simplex.png"" decoding=""async"" width=""93"" height=""98"" class=""thumbimage"" data-file-width=""93"" data-file-height=""98"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Nerve-2-simplex.png"" class=""internal"" title=""Enlarge""></a></div>The composition is encoded as a 2-simplex.</div></div></div>
-<dt class=""glossary"" id=""nerve"" style=""margin-top: 0.4em;""><dfn class=""glossary"">nerve</dfn></dt>
+<div class=""thumb tright""><div class=""thumbinner"" style=""width:95px;""><a href=""https://en.wikipedia.org/wiki/File:Nerve-2-simplex.png"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/d/d4/Nerve-2-simplex.png"" decoding=""async"" width=""93"" height=""98"" class=""thumbimage"" data-file-width=""93"" data-file-height=""98"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Nerve-2-simplex.png"" class=""internal"" title=""Enlarge""></a></div>The composition is encoded as a 2-simplex.</div></div></div>"
+"<dt class=""glossary"" id=""nerve"" style=""margin-top: 0.4em;""><dfn class=""glossary"">nerve</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Nerve_functor"" class=""mw-redirect"" title=""Nerve functor"">nerve functor</a> <i>N</i> is the functor from <b>Cat</b> to <i>s</i><b>Set</b> given by <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle N(C)_{n}=\operatorname {Hom} _{\mathbf {Cat} }([n],C)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4151,37 +4151,37 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle \varphi }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:1.52ex; height:2.176ex;"" alt=""\varphi ""/></span> encodes <i>f</i>, <i>g</i> and their compositions.</dd>
-
-<dt class=""glossary"" id=""normal"" style=""margin-top: 0.4em;""><dfn class=""glossary"">normal</dfn></dt>
-<dd class=""glossary"">A monomorphism is normal if it is the kernel of some morphism, and an epimorphism is conormal if it is the cokernel of some morphism.  A category is <a href=""https://en.wikipedia.org/wiki/Normal_category"" class=""mw-redirect"" title=""Normal category"">normal</a> if every monomorphism is normal.</dd>
-<dt class=""glossary"" id=""object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">object</dfn></dt>
+"
+"<dt class=""glossary"" id=""normal"" style=""margin-top: 0.4em;""><dfn class=""glossary"">normal</dfn></dt>"¬"
+<dd class=""glossary"">A monomorphism is normal if it is the kernel of some morphism, and an epimorphism is conormal if it is the cokernel of some morphism.  A category is <a href=""https://en.wikipedia.org/wiki/Normal_category"" class=""mw-redirect"" title=""Normal category"">normal</a> if every monomorphism is normal.</dd>"
+"<dt class=""glossary"" id=""object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">object</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;An object is part of a data defining a category.</dd>
 <dd class=""glossary"">2.&#160;&#160;An [adjective] object in a category <i>C</i> is a contravariant functor (or presheaf) from some fixed category corresponding to the ""adjective"" to <i>C</i>. For example, a <a href=""https://en.wikipedia.org/wiki/Simplicial_object"" class=""mw-redirect"" title=""Simplicial object"">simplicial object</a> in <i>C</i> is a contravariant functor from the simplicial category to <i>C</i> and a <a href=""https://en.wikipedia.org/w/index.php?title=%CE%93-object&amp;action=edit&amp;redlink=1"" class=""new"" title=""Γ-object (page does not exist)"">Γ-object</a> is a pointed contravariant functor from <a href=""https://en.wikipedia.org/w/index.php?title=%CE%93_(category_theory)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Γ (category theory) (page does not exist)"">Γ</a> (roughly the pointed category of pointed finite sets) to <i>C</i> provided <i>C</i> is pointed.</dd>
-
-<dt class=""glossary"" id=""op-fibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">op-fibration</dfn></dt>
+"
+"<dt class=""glossary"" id=""op-fibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">op-fibration</dfn></dt>"¬"
 <dd class=""glossary"">A functor π:<i>C</i> → <i>D</i> is an <a href=""https://en.wikipedia.org/wiki/Op-fibration"" class=""mw-redirect"" title=""Op-fibration"">op-fibration</a> if, for each object <i>x</i> in <i>C</i> and each morphism <i>g</i>&#160;: π(<i>x</i>) → <i>y</i> in <i>D</i>, there is at least one π-coCartesian morphism <i>f</i>: <i>x</i> → <i>y'</i> in <i>C</i> such that π(<i>f</i>) = <i>g</i>. In other words, π is the dual of a <a href=""https://en.wikipedia.org/wiki/Grothendieck_fibration"" class=""mw-redirect"" title=""Grothendieck fibration"">Grothendieck fibration</a>.</dd>
-
-<dt class=""glossary"" id=""opposite"" style=""margin-top: 0.4em;""><dfn class=""glossary"">opposite</dfn></dt>
-<dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Opposite_category"" title=""Opposite category"">opposite category</a> of a category is obtained by reversing the arrows. For example, if a partially ordered set is viewed as a category, taking its opposite amounts to reversing the ordering.</dd>
-<dt class=""glossary"" id=""perfect"" style=""margin-top: 0.4em;""><dfn class=""glossary"">perfect</dfn></dt>
+"
+"<dt class=""glossary"" id=""opposite"" style=""margin-top: 0.4em;""><dfn class=""glossary"">opposite</dfn></dt>"¬"
+<dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Opposite_category"" title=""Opposite category"">opposite category</a> of a category is obtained by reversing the arrows. For example, if a partially ordered set is viewed as a category, taking its opposite amounts to reversing the ordering.</dd>"
+"<dt class=""glossary"" id=""perfect"" style=""margin-top: 0.4em;""><dfn class=""glossary"">perfect</dfn></dt>"¬"
 <dd class=""glossary"">Sometimes synonymous with ""compact"". See <a href=""https://en.wikipedia.org/wiki/Perfect_complex"" title=""Perfect complex"">perfect complex</a>.</dd>
-
-<dt class=""glossary"" id=""pointed"" style=""margin-top: 0.4em;""><dfn class=""glossary"">pointed</dfn></dt>
+"
+"<dt class=""glossary"" id=""pointed"" style=""margin-top: 0.4em;""><dfn class=""glossary"">pointed</dfn></dt>"¬"
 <dd class=""glossary"">A category (or ∞-category) is called pointed if it has a zero object.</dd>
-
-<dt class=""glossary"" id=""polynomial"" style=""margin-top: 0.4em;""><dfn class=""glossary"">polynomial</dfn></dt>
+"
+"<dt class=""glossary"" id=""polynomial"" style=""margin-top: 0.4em;""><dfn class=""glossary"">polynomial</dfn></dt>"¬"
 <dd class=""glossary"">A functor from the category of finite-dimensional vector spaces to itself is called a <a href=""https://en.wikipedia.org/wiki/Polynomial_functor"" title=""Polynomial functor"">polynomial functor</a> if, for each pair of vector spaces <i>V</i>, <i>W</i>, <span class=""nowrap""><i>F</i>: Hom(<i>V</i>, <i>W</i>) → Hom(<i>F</i>(<i>V</i>), <i>F</i>(<i>W</i>))</span> is a polynomial map between the vector spaces. A <a href=""https://en.wikipedia.org/wiki/Schur_functor"" title=""Schur functor"">Schur functor</a> is a basic example.</dd>
-
-<dt class=""glossary"" id=""preadditive"" style=""margin-top: 0.4em;""><dfn class=""glossary"">preadditive</dfn></dt>
+"
+"<dt class=""glossary"" id=""preadditive"" style=""margin-top: 0.4em;""><dfn class=""glossary"">preadditive</dfn></dt>"¬"
 <dd class=""glossary"">A category is <a href=""https://en.wikipedia.org/wiki/Preadditive_category"" title=""Preadditive category"">preadditive</a> if it is <a href=""https://en.wikipedia.org/wiki/Enriched_category"" title=""Enriched category"">enriched</a> over the <a href=""https://en.wikipedia.org/wiki/Monoidal_category"" title=""Monoidal category"">monoidal category</a> of <a href=""https://en.wikipedia.org/wiki/Abelian_group"" title=""Abelian group"">abelian groups</a>. More generally, it is <a href=""https://en.wikipedia.org/wiki/Preadditive_category#R-linear_categories"" title=""Preadditive category""><i>R</i>-linear</a> if it is enriched over the monoidal category of <a href=""https://en.wikipedia.org/wiki/Module_(mathematics)"" title=""Module (mathematics)""><i>R</i>-modules</a>, for <i>R</i> a <a href=""https://en.wikipedia.org/wiki/Commutative_ring"" title=""Commutative ring"">commutative ring</a>.</dd>
-
-<dt class=""glossary"" id=""presentable"" style=""margin-top: 0.4em;""><dfn class=""glossary"">presentable</dfn></dt>
+"
+"<dt class=""glossary"" id=""presentable"" style=""margin-top: 0.4em;""><dfn class=""glossary"">presentable</dfn></dt>"¬"
 <dd class=""glossary"">Given a <a href=""https://en.wikipedia.org/wiki/Regular_cardinal"" title=""Regular cardinal"">regular cardinal</a> κ, a category is <a href=""https://en.wikipedia.org/w/index.php?title=Presentabl_category&amp;action=edit&amp;redlink=1"" class=""new"" title=""Presentabl category (page does not exist)"">κ-presentable</a> if it admits all small colimits and is <a href=""#accessible"">κ-accessible</a>. A category is presentable if it is κ-presentable for some regular cardinal κ (hence presentable for any larger cardinal). <b>Note</b>: Some authors call a presentable category a <a href=""https://en.wikipedia.org/wiki/Locally_presentable_category"" class=""mw-redirect"" title=""Locally presentable category"">locally presentable category</a>.</dd>
-
-<dt class=""glossary"" id=""presheaf"" style=""margin-top: 0.4em;""><dfn class=""glossary"">presheaf</dfn></dt>
+"
+"<dt class=""glossary"" id=""presheaf"" style=""margin-top: 0.4em;""><dfn class=""glossary"">presheaf</dfn></dt>"¬"
 <dd class=""glossary"">Another term for a contravariant functor: a functor from a category <i>C</i><sup>op</sup> to <b>Set</b> is a presheaf of sets on <i>C</i> and a functor from <i>C</i><sup>op</sup> to <i>s</i><b>Set</b> is a presheaf of simplicial sets or <a href=""https://en.wikipedia.org/wiki/Simplicial_presheaf"" title=""Simplicial presheaf"">simplicial presheaf</a>, etc. A <a href=""https://en.wikipedia.org/wiki/Grothendieck_topology"" title=""Grothendieck topology"">topology</a> on <i>C</i>, if any, tells which presheaf is a sheaf (with respect to that topology).</dd>
-
-<dt class=""glossary"" id=""product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">product</dfn></dt>
+"
+"<dt class=""glossary"" id=""product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">product</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Product_(category_theory)"" title=""Product (category theory)"">product</a> of a family of objects <i>X</i><sub><i>i</i></sub> in a category <i>C</i> indexed by a set <i>I</i> is the projective limit <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \varprojlim }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4302,8 +4302,8 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle \prod _{i}\operatorname {Hom} _{\operatorname {C_{i}} }(X_{i},Y_{i})}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/e8c4ea1990cd6406ade2373811b639a5e1bdc0e2"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.005ex; width:17.87ex; height:5.509ex;"" alt=""\prod _{i}\operatorname {Hom} _{\operatorname {C_{i}} }(X_{i},Y_{i})""/></span>; the morphisms are composed component-wise. It is the dual of the disjoint union.</dd>
-
-<dt class=""glossary"" id=""profunctor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">profunctor</dfn></dt>
+"
+"<dt class=""glossary"" id=""profunctor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">profunctor</dfn></dt>"¬"
 <dd class=""glossary"">Given categories <i>C</i> and <i>D</i>, a <a href=""https://en.wikipedia.org/wiki/Profunctor"" title=""Profunctor"">profunctor</a> (or a distributor) from <i>C</i> to <i>D</i> is a functor of the form <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle D^{\text{op}}\times C\to \mathbf {Set} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4327,8 +4327,8 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle D^{\text{op}}\times C\to \mathbf {Set} }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c5c5c81ba3986db2d9df90976554191ad32db811"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:15.863ex; height:2.343ex;"" alt=""{\displaystyle D^{\text{op}}\times C\to \mathbf {Set} }""/></span>.</dd>
-
-<dt class=""glossary"" id=""projective"" style=""margin-top: 0.4em;""><dfn class=""glossary"">projective</dfn></dt>
+"
+"<dt class=""glossary"" id=""projective"" style=""margin-top: 0.4em;""><dfn class=""glossary"">projective</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;An object <i>A</i> in an abelian category is <a href=""https://en.wikipedia.org/wiki/Projective_object"" title=""Projective object"">projective</a> if the functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Hom} (A,-)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4346,19 +4346,19 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/dcd09b0dd4114a6f799460830a49b59cb7c3d543"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:11.236ex; height:2.843ex;"" alt=""\operatorname {Hom} (A,-)""/></span> is exact. It is the dual of an injective object.</dd>
 <dd class=""glossary"">2.&#160;&#160;The term “projective limit” is another name for an <a href=""https://en.wikipedia.org/wiki/Inverse_limit"" title=""Inverse limit"">inverse limit</a>.</dd>
-
-<dt class=""glossary"" id=""prop"" style=""margin-top: 0.4em;""><dfn class=""glossary"">PROP</dfn></dt>
+"
+"<dt class=""glossary"" id=""prop"" style=""margin-top: 0.4em;""><dfn class=""glossary"">PROP</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/PROP_(category_theory)"" title=""PROP (category theory)"">PROP</a> is a symmetric strict monoidal category whose objects are natural numbers and whose tensor product <a href=""https://en.wikipedia.org/wiki/Addition"" title=""Addition"">addition</a> of natural numbers.</dd>
-
-<dt class=""glossary"" id=""pseudoalgebra"" style=""margin-top: 0.4em;""><dfn class=""glossary"">pseudoalgebra</dfn></dt>
-<dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Pseudoalgebra"" title=""Pseudoalgebra"">pseudoalgebra</a> is a 2-category-version of an algebra for a monad (with a monad replaced by a 2-monad).</dd>
-<dt class=""glossary"" id=""quillen"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Quillen</dfn></dt>
-<dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Quillen%E2%80%99s_theorem_A"" class=""mw-redirect"" title=""Quillen’s theorem A"">Quillen’s theorem A</a> provides a criterion for a functor to be a weak equivalence.</dd>
-<dt class=""glossary"" id=""reflect"" style=""margin-top: 0.4em;""><dfn class=""glossary"">reflect</dfn></dt>
+"
+"<dt class=""glossary"" id=""pseudoalgebra"" style=""margin-top: 0.4em;""><dfn class=""glossary"">pseudoalgebra</dfn></dt>"¬"
+<dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Pseudoalgebra"" title=""Pseudoalgebra"">pseudoalgebra</a> is a 2-category-version of an algebra for a monad (with a monad replaced by a 2-monad).</dd>"
+"<dt class=""glossary"" id=""quillen"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Quillen</dfn></dt>"¬"
+<dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Quillen%E2%80%99s_theorem_A"" class=""mw-redirect"" title=""Quillen’s theorem A"">Quillen’s theorem A</a> provides a criterion for a functor to be a weak equivalence.</dd>"
+"<dt class=""glossary"" id=""reflect"" style=""margin-top: 0.4em;""><dfn class=""glossary"">reflect</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A functor is said to reflect identities if it has the property: if <i>F</i>(<i>k</i>) is an identity then <i>k</i> is an identity as well.</dd>
 <dd class=""glossary"">2.&#160;&#160;A functor is said to reflect isomorphisms if it has the property:  <i>F</i>(<i>k</i>) is an isomorphism then <i>k</i> is an isomorphism as well.</dd>
-
-<dt class=""glossary"" id=""representable"" style=""margin-top: 0.4em;""><dfn class=""glossary"">representable</dfn></dt>
+"
+"<dt class=""glossary"" id=""representable"" style=""margin-top: 0.4em;""><dfn class=""glossary"">representable</dfn></dt>"¬"
 <dd class=""glossary"">A set-valued contravariant functor <i>F</i> on a category <i>C</i> is said to be <a href=""https://en.wikipedia.org/wiki/Representable_functor"" title=""Representable functor"">representable</a> if it belongs to the essential image of the <a href=""https://en.wikipedia.org/wiki/Yoneda_embedding"" class=""mw-redirect"" title=""Yoneda embedding"">Yoneda embedding</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle C\to \mathbf {Fct} (C^{\text{op}},\mathbf {Set} )}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4411,19 +4411,19 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle F\simeq \operatorname {Hom} _{C}(-,Z)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/2448bd47df48dd229837a2657c63b34b1629d6f8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:17.494ex; height:2.843ex;"" alt=""F\simeq \operatorname {Hom} _{C}(-,Z)""/></span> for some object <i>Z</i>. The object <i>Z</i> is said to be the representing object of <i>F</i>.</dd>
-
-<dt class=""glossary"" id=""retraction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">retraction</dfn></dt>
-<dd class=""glossary""><div class=""thumb tright""><div class=""thumbinner"" style=""width:152px;""><a href=""https://en.wikipedia.org/wiki/File:Section_retract.svg"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Section_retract.svg/150px-Section_retract.svg.png"" decoding=""async"" width=""150"" height=""166"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Section_retract.svg/225px-Section_retract.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Section_retract.svg/300px-Section_retract.svg.png 2x"" data-file-width=""113"" data-file-height=""125"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Section_retract.svg"" class=""internal"" title=""Enlarge""></a></div><i>f</i> is a retraction of <i>g</i>. <i>g</i> is a section of <i>f</i>.</div></div></div>A morphism is a <a href=""https://en.wikipedia.org/wiki/Section_(category_theory)"" title=""Section (category theory)"">retraction</a> if it has a right inverse.</dd>
-<dt class=""glossary"" id=""section"" style=""margin-top: 0.4em;""><dfn class=""glossary"">section</dfn></dt>
+"
+"<dt class=""glossary"" id=""retraction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">retraction</dfn></dt>"¬"
+<dd class=""glossary""><div class=""thumb tright""><div class=""thumbinner"" style=""width:152px;""><a href=""https://en.wikipedia.org/wiki/File:Section_retract.svg"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Section_retract.svg/150px-Section_retract.svg.png"" decoding=""async"" width=""150"" height=""166"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Section_retract.svg/225px-Section_retract.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Section_retract.svg/300px-Section_retract.svg.png 2x"" data-file-width=""113"" data-file-height=""125"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Section_retract.svg"" class=""internal"" title=""Enlarge""></a></div><i>f</i> is a retraction of <i>g</i>. <i>g</i> is a section of <i>f</i>.</div></div></div>A morphism is a <a href=""https://en.wikipedia.org/wiki/Section_(category_theory)"" title=""Section (category theory)"">retraction</a> if it has a right inverse.</dd>"
+"<dt class=""glossary"" id=""section"" style=""margin-top: 0.4em;""><dfn class=""glossary"">section</dfn></dt>"¬"
 <dd class=""glossary"">A morphism is a <a href=""https://en.wikipedia.org/wiki/Section_(category_theory)"" title=""Section (category theory)"">section</a> if it has a left inverse. For example, the <a href=""https://en.wikipedia.org/wiki/Axiom_of_choice"" title=""Axiom of choice"">axiom of choice</a> says that any surjective function admits a section.</dd>
-
-<dt class=""glossary"" id=""segal_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Segal space</dfn></dt>
+"
+"<dt class=""glossary"" id=""segal_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Segal space</dfn></dt>"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Segal_space"" title=""Segal space"">Segal spaces</a> were certain simplicial spaces, introduced as models for <a href=""https://en.wikipedia.org/wiki/(infinity,1)-category"" class=""mw-redirect"" title=""(infinity,1)-category"">(∞,&#160;1)-categories</a>.</dd>
-
-<dt class=""glossary"" id=""semisimple"" style=""margin-top: 0.4em;""><dfn class=""glossary"">semisimple</dfn></dt>
+"
+"<dt class=""glossary"" id=""semisimple"" style=""margin-top: 0.4em;""><dfn class=""glossary"">semisimple</dfn></dt>"¬"
 <dd class=""glossary"">An abelian category is <a href=""https://en.wikipedia.org/wiki/Semisimple_category"" class=""mw-redirect"" title=""Semisimple category"">semisimple</a> if every short exact sequence splits. For example, a ring is <a href=""https://en.wikipedia.org/wiki/Semisimple_ring"" class=""mw-redirect"" title=""Semisimple ring"">semisimple</a> if and only if the category of modules over it is semisimple.</dd>
-
-<dt class=""glossary"" id=""serre_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Serre functor</dfn></dt>
+"
+"<dt class=""glossary"" id=""serre_functor"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Serre functor</dfn></dt>"¬"
 <dd class=""glossary"">Given a <i>k</i>-linear category <i>C</i> over a field <i>k</i>, a <a href=""https://en.wikipedia.org/w/index.php?title=Serre_functor&amp;action=edit&amp;redlink=1"" class=""new"" title=""Serre functor (page does not exist)"">Serre functor</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:C\to C}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4468,20 +4468,20 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle \operatorname {Hom} (A,B)\simeq \operatorname {Hom} (B,f(A))^{*}}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0a8d2eadb1040bd65ad6b70453b805bbcc4dc9a9"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:29.624ex; height:2.843ex;"" alt=""{\displaystyle \operatorname {Hom} (A,B)\simeq \operatorname {Hom} (B,f(A))^{*}}""/></span> for any objects <i>A</i>, <i>B</i>.</dd>
-<dt class=""glossary"" id=""simple_object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simple object</dfn></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0a8d2eadb1040bd65ad6b70453b805bbcc4dc9a9"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:29.624ex; height:2.843ex;"" alt=""{\displaystyle \operatorname {Hom} (A,B)\simeq \operatorname {Hom} (B,f(A))^{*}}""/></span> for any objects <i>A</i>, <i>B</i>.</dd>"
+"<dt class=""glossary"" id=""simple_object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simple object</dfn></dt>"¬"
 <dd class=""glossary"">A simple object in an abelian category is <span id=""simple_object""></span>an object <i>A</i> that is not isomorphic to the zero object and whose every <a href=""https://en.wikipedia.org/wiki/Subobject"" title=""Subobject"">subobject</a> is isomorphic to zero or to <i>A</i>. For example, a <a href=""https://en.wikipedia.org/wiki/Simple_module"" title=""Simple module"">simple module</a> is precisely a simple object in the category of (say left) modules.</dd>
-
-<dt class=""glossary"" id=""simplex_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplex category</dfn></dt>
+"
+"<dt class=""glossary"" id=""simplex_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplex category</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Simplex_category"" title=""Simplex category"">simplex category</a> &#916; is the category where an object is a set [<i>n</i>] = { 0, 1, …, <i>n</i> }, n ≥ 0, totally ordered in the standard way and a morphism is an order-preserving function.</dd>
-
-<dt class=""glossary"" id=""simplicial_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial category</dfn></dt>
+"
+"<dt class=""glossary"" id=""simplicial_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial category</dfn></dt>"¬"
 <dd class=""glossary"">A category enriched over simplicial sets.</dd>
-
-<dt class=""glossary"" id=""simplicial_localization"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Simplicial localization</dfn></dt>
+"
+"<dt class=""glossary"" id=""simplicial_localization"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Simplicial localization</dfn></dt>"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Simplicial_localization"" title=""Simplicial localization"">Simplicial localization</a> is a method of localizing a category.</dd>
-
-<dt class=""glossary"" id=""simplicial_object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial object</dfn></dt>
+"
+"<dt class=""glossary"" id=""simplicial_object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial object</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Simplicial_object"" class=""mw-redirect"" title=""Simplicial object"">simplicial object</a> in a category <i>C</i> is roughly a sequence of objects <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X_{0},X_{1},X_{2},\dots }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4513,8 +4513,8 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle X_{0},X_{1},X_{2},\dots }</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/e068505f72a88bf2c295490331817273592e0788"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:14.761ex; height:2.509ex;"" alt=""{\displaystyle X_{0},X_{1},X_{2},\dots }""/></span> in <i>C</i> that forms a simplicial set. In other words, it is a covariant or contravariant functor Δ → <i>C</i>. For example, a <a href=""https://en.wikipedia.org/wiki/Simplicial_presheaf"" title=""Simplicial presheaf"">simplicial presheaf</a> is a simplicial object in the category of presheaves.</dd>
-
-<dt class=""glossary"" id=""simplicial_set"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial set</dfn></dt>
+"
+"<dt class=""glossary"" id=""simplicial_set"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial set</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Simplicial_set"" title=""Simplicial set"">simplicial set</a> is a contravariant functor from &#916; to <b>Set</b>, where &#916; is the <a href=""https://en.wikipedia.org/wiki/Simplex_category"" title=""Simplex category"">simplex category</a>, a category whose objects are the sets [<i>n</i>] = { 0, 1, …, <i>n</i> } and whose morphisms are order-preserving functions. One writes <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X_{n}=X([n])}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4607,15 +4607,15 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle X_{n}\simeq \operatorname {Nat} (\Delta ^{n},X)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7d06364bd3e2b3064b3d6c5cbd33a17fa725430a"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:18.029ex; height:2.843ex;"" alt=""{\displaystyle X_{n}\simeq \operatorname {Nat} (\Delta ^{n},X)}""/></span>.</dd>
-
-<dt class=""glossary"" id=""site"" style=""margin-top: 0.4em;""><dfn class=""glossary"">site</dfn></dt>
+"
+"<dt class=""glossary"" id=""site"" style=""margin-top: 0.4em;""><dfn class=""glossary"">site</dfn></dt>"¬"
 <dd class=""glossary"">A category equipped with a <a href=""https://en.wikipedia.org/wiki/Grothendieck_topology"" title=""Grothendieck topology"">Grothendieck topology</a>.</dd>
-
-<dt class=""glossary"" id=""skeletal"" style=""margin-top: 0.4em;""><dfn class=""glossary"">skeletal</dfn></dt>
+"
+"<dt class=""glossary"" id=""skeletal"" style=""margin-top: 0.4em;""><dfn class=""glossary"">skeletal</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A category is <a href=""https://en.wikipedia.org/wiki/Skeleton_(category_theory)"" title=""Skeleton (category theory)"">skeletal</a> if isomorphic objects are necessarily identical.</dd>
 <dd class=""glossary"">2.&#160;&#160;A (not unique) <a href=""https://en.wikipedia.org/wiki/Skeleton_(category_theory)"" title=""Skeleton (category theory)"">skeleton</a> of a category is a full subcategory that is skeletal.</dd>
-
-<dt class=""glossary"" id=""slice"" style=""margin-top: 0.4em;""><dfn class=""glossary"">slice</dfn></dt>
+"
+"<dt class=""glossary"" id=""slice"" style=""margin-top: 0.4em;""><dfn class=""glossary"">slice</dfn></dt>"¬"
 <dd class=""glossary"">Given a category <i>C</i> and an object <i>A</i> in it, the <a href=""https://en.wikipedia.org/wiki/Slice_category"" class=""mw-redirect"" title=""Slice category"">slice category</a> <i>C</i><sub>/<i>A</i></sub> of <i>C</i> over <i>A</i> is the category whose objects are all the morphisms in <i>C</i> with codomain <i>A</i>, whose morphisms are morphisms in <i>C</i> such that if <i>f</i> is a morphism from <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle p_{X}:X\to A}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4676,18 +4676,18 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle p_{Y}\circ f=p_{X}}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/13b01c104ec1bb3d88d3052babab31bd8ce6f8b3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; margin-left: -0.089ex; width:12.119ex; height:2.509ex;"" alt=""p_{Y}\circ f=p_{X}""/></span> in <i>C</i> and whose composition is that of <i>C</i>.</dd>
-
-<dt class=""glossary"" id=""small"" style=""margin-top: 0.4em;""><dfn class=""glossary"">small</dfn></dt>
+"
+"<dt class=""glossary"" id=""small"" style=""margin-top: 0.4em;""><dfn class=""glossary"">small</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;A <a href=""https://en.wikipedia.org/wiki/Small_category"" class=""mw-redirect"" title=""Small category"">small category</a> is a category in which the class of all morphisms is a <a href=""https://en.wikipedia.org/wiki/Set_(mathematics)"" title=""Set (mathematics)"">set</a> (i.e., not a <a href=""https://en.wikipedia.org/wiki/Proper_class"" class=""mw-redirect"" title=""Proper class"">proper class</a>); otherwise <b>large</b>. A category is <b>locally small</b> if the morphisms between every pair of objects <i>A</i> and <i>B</i> form a set. Some authors assume a foundation in which the collection of all classes forms a ""conglomerate"", in which case a <b>quasicategory</b> is a category whose objects and morphisms merely form a <a href=""https://en.wikipedia.org/wiki/Conglomerate_(mathematics)"" title=""Conglomerate (mathematics)"">conglomerate</a>.<sup id=""cite_ref-10"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-10"">&#91;10&#93;</a></sup> (NB: some authors use the term ""quasicategory"" with a different meaning.<sup id=""cite_ref-11"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-11"">&#91;11&#93;</a></sup>)</dd>
 <dd class=""glossary"">2.&#160;&#160;An object in a category is said to be <a href=""https://en.wikipedia.org/w/index.php?title=Small_object&amp;action=edit&amp;redlink=1"" class=""new"" title=""Small object (page does not exist)"">small</a> if it is κ-compact for some regular cardinal κ. The notion prominently appears in Quiilen's <a href=""https://en.wikipedia.org/w/index.php?title=Small_object_argument&amp;action=edit&amp;redlink=1"" class=""new"" title=""Small object argument (page does not exist)"">small object argument</a> (cf. <a rel=""nofollow"" class=""external free"" href=""https://ncatlab.org/nlab/show/small+object+argument"">https://ncatlab.org/nlab/show/small+object+argument</a>)</dd>
-
-<dt class=""glossary"" id=""species"" style=""margin-top: 0.4em;""><dfn class=""glossary"">species</dfn></dt>
+"
+"<dt class=""glossary"" id=""species"" style=""margin-top: 0.4em;""><dfn class=""glossary"">species</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Combinatorial_species"" title=""Combinatorial species"">(combinatorial) species</a> is an endofunctor on the groupoid of finite sets with bijections. It is categorically equivalent to a <a href=""https://en.wikipedia.org/wiki/Symmetric_sequence"" class=""mw-redirect"" title=""Symmetric sequence"">symmetric sequence</a>.</dd>
-
-<dt class=""glossary"" id=""stable"" style=""margin-top: 0.4em;""><dfn class=""glossary"">stable</dfn></dt>
+"
+"<dt class=""glossary"" id=""stable"" style=""margin-top: 0.4em;""><dfn class=""glossary"">stable</dfn></dt>"¬"
 <dd class=""glossary"">An ∞-category is <a href=""https://en.wikipedia.org/wiki/Stable_%E2%88%9E-category"" title=""Stable ∞-category"">stable</a> if (1) it has a zero object, (2) every morphism in it admits a fiber and a cofiber and (3) a triangle in it is a fiber sequence if and only if it is a cofiber sequence.</dd>
-
-<dt class=""glossary"" id=""strict"" style=""margin-top: 0.4em;""><dfn class=""glossary"">strict</dfn></dt>
+"
+"<dt class=""glossary"" id=""strict"" style=""margin-top: 0.4em;""><dfn class=""glossary"">strict</dfn></dt>"¬"
 <dd class=""glossary"">A morphism <i>f</i> in a category admitting finite limits and finite colimits is <a href=""https://en.wikipedia.org/w/index.php?title=Strict_morphism&amp;action=edit&amp;redlink=1"" class=""new"" title=""Strict morphism (page does not exist)"">strict</a> if the natural morphism <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Coim} (f)\to \operatorname {Im} (f)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4708,35 +4708,35 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle \operatorname {Coim} (f)\to \operatorname {Im} (f)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/1bd6f2101c22c928397f5217eacfe4ff85ef46cd"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:17.989ex; height:2.843ex;"" alt=""\operatorname {Coim} (f)\to \operatorname {Im} (f)""/></span> is an isomorphism.</dd>
-
-<dt class=""glossary"" id=""strict_&#39;&#39;n&#39;&#39;-category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">strict <i>n</i>-category</dfn></dt>
+"
+"<dt class=""glossary"" id=""strict_&#39;&#39;n&#39;&#39;-category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">strict <i>n</i>-category</dfn></dt>"¬"
 <dd class=""glossary"">A strict 0-category is a set and for any integer <i>n</i> &gt; 0, a <a href=""https://en.wikipedia.org/wiki/Strict_n-category"" class=""mw-redirect"" title=""Strict n-category"">strict <i>n</i>-category</a> is a category enriched over strict (<i>n</i>-1)-categories. For example, a strict 1-category is an ordinary category. <b>Note</b>: the term ""<i>n</i>-category"" typically refers to ""<a href=""https://en.wikipedia.org/wiki/Weak_n-category"" title=""Weak n-category"">weak <i>n</i>-category</a>""; not strict one.</dd>
-
-<dt class=""glossary"" id=""subcanonical"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subcanonical</dfn></dt>
+"
+"<dt class=""glossary"" id=""subcanonical"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subcanonical</dfn></dt>"¬"
 <dd class=""glossary"">A topology on a category is <a href=""https://en.wikipedia.org/w/index.php?title=Subcanonical&amp;action=edit&amp;redlink=1"" class=""new"" title=""Subcanonical (page does not exist)"">subcanonical</a> if every representable contravariant functor on <i>C</i> is a sheaf with respect to that topology.<sup id=""cite_ref-12"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-12"">&#91;12&#93;</a></sup> Generally speaking, some <a href=""https://en.wikipedia.org/wiki/Flat_topology"" title=""Flat topology"">flat topology</a> may fail to be subcanonical; but flat topologies appearing in practice tend to be subcanonical.</dd>
-
-<dt class=""glossary"" id=""subcategory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subcategory</dfn></dt>
+"
+"<dt class=""glossary"" id=""subcategory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subcategory</dfn></dt>"¬"
 <dd class=""glossary"">A category <i>A</i> is a <a href=""https://en.wikipedia.org/wiki/Subcategory"" title=""Subcategory"">subcategory</a> of a category <i>B</i> if there is an inclusion functor from <i>A</i> to <i>B</i>.</dd>
-
-<dt class=""glossary"" id=""subobject"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subobject</dfn></dt>
+"
+"<dt class=""glossary"" id=""subobject"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subobject</dfn></dt>"¬"
 <dd class=""glossary"">Given an object <i>A</i> in a category, a <a href=""https://en.wikipedia.org/wiki/Subobject"" title=""Subobject"">subobject</a> of <i>A</i> is an equivalence class of monomorphisms to <i>A</i>; two monomorphisms <i>f</i>, <i>g</i> are considered equivalent if <i>f</i> factors through <i>g</i> and <i>g</i> factors through <i>f</i>.</dd>
-
-<dt class=""glossary"" id=""subquotient"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subquotient</dfn></dt>
+"
+"<dt class=""glossary"" id=""subquotient"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subquotient</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Subquotient"" title=""Subquotient"">subquotient</a> is a quotient of a subobject.</dd>
-
-<dt class=""glossary"" id=""subterminal_object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subterminal object</dfn></dt>
+"
+"<dt class=""glossary"" id=""subterminal_object"" style=""margin-top: 0.4em;""><dfn class=""glossary"">subterminal object</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Subterminal_object"" title=""Subterminal object"">subterminal object</a> is an object <i>X</i> such that every object has at most one morphism into <i>X</i>.</dd>
-
-<dt class=""glossary"" id=""symmetric_monoidal_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">symmetric monoidal category</dfn></dt>
+"
+"<dt class=""glossary"" id=""symmetric_monoidal_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">symmetric monoidal category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Symmetric_monoidal_category"" title=""Symmetric monoidal category"">symmetric monoidal category</a> is a <a href=""https://en.wikipedia.org/wiki/Monoidal_category"" title=""Monoidal category"">monoidal category</a> (i.e., a category with ⊗) that has maximally symmetric braiding.</dd>
-
-<dt class=""glossary"" id=""symmetric_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">symmetric sequence</dfn></dt>
+"
+"<dt class=""glossary"" id=""symmetric_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">symmetric sequence</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Symmetric_sequence"" class=""mw-redirect"" title=""Symmetric sequence"">symmetric sequence</a> is a sequence of objects with actions of <a href=""https://en.wikipedia.org/wiki/Symmetric_group"" title=""Symmetric group"">symmetric groups</a>. It is categorically equivalent to a <a href=""https://en.wikipedia.org/wiki/Combinatorial_species"" title=""Combinatorial species"">(combinatorial) species</a>.</dd>
-
-<dt class=""glossary"" id=""t-structure"" style=""margin-top: 0.4em;""><dfn class=""glossary"">t-structure</dfn></dt>
+"
+"<dt class=""glossary"" id=""t-structure"" style=""margin-top: 0.4em;""><dfn class=""glossary"">t-structure</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/T-structure"" title=""T-structure"">t-structure</a> is an additional structure on a <a href=""https://en.wikipedia.org/wiki/Triangulated_category"" title=""Triangulated category"">triangulated category</a> (more generally <a href=""https://en.wikipedia.org/wiki/Stable_%E2%88%9E-category"" title=""Stable ∞-category"">stable ∞-category</a>) that axiomatizes the notions of complexes whose cohomology concentrated in non-negative degrees or non-positive degrees.</dd>
-
-<dt class=""glossary"" id=""tannakian_duality"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Tannakian duality</dfn></dt>
+"
+"<dt class=""glossary"" id=""tannakian_duality"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Tannakian duality</dfn></dt>"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Tannakian_duality"" class=""mw-redirect"" title=""Tannakian duality"">Tannakian duality</a> states that, in an appropriate setup, to give a morphism <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:X\to Y}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4813,14 +4813,14 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle D(X)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/054ce5cebeedabbdd1656658239c5da5264c2b96"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:5.714ex; height:2.843ex;"" alt=""D(X)""/></span> is the category associated to <i>X</i> (e.g., the derived category).<sup id=""cite_ref-13"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-13"">&#91;13&#93;</a></sup><sup id=""cite_ref-14"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory#cite_note-14"">&#91;14&#93;</a></sup></dd>
-
-<dt class=""glossary"" id=""tensor_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">tensor category</dfn></dt>
+"
+"<dt class=""glossary"" id=""tensor_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">tensor category</dfn></dt>"¬"
 <dd class=""glossary"">Usually synonymous with <a href=""https://en.wikipedia.org/wiki/Monoidal_category"" title=""Monoidal category"">monoidal category</a> (though some authors distinguish between the two concepts.)</dd>
-
-<dt class=""glossary"" id=""tensor_triangulated_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">tensor triangulated category</dfn></dt>
+"
+"<dt class=""glossary"" id=""tensor_triangulated_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">tensor triangulated category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/w/index.php?title=Tensor_triangulated_category&amp;action=edit&amp;redlink=1"" class=""new"" title=""Tensor triangulated category (page does not exist)"">tensor triangulated category</a> is a category that carries the structure of a symmetric monoidal category and that of a triangulated category in a compatible way.</dd>
-
-<dt class=""glossary"" id=""tensor_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">tensor product</dfn></dt>
+"
+"<dt class=""glossary"" id=""tensor_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">tensor product</dfn></dt>"¬"
 <dd class=""glossary"">Given a monoidal category <i>B</i>, the <b>tensor product of functors</b> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle F:C^{\text{op}}\to B}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -4889,8 +4889,8 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle F\otimes _{C}G=\int ^{c\in C}F(c)\otimes G(c).}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/50e3a3ecb57f1c5f583303875b900c0594c7b157"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -2.338ex; width:29.815ex; height:6.343ex;"" alt=""{\displaystyle F\otimes _{C}G=\int ^{c\in C}F(c)\otimes G(c).}""/></span></dd></dl></dd></dl>
-
-<dt class=""glossary"" id=""terminal"" style=""margin-top: 0.4em;""><dfn class=""glossary"">terminal</dfn></dt>
+"
+"<dt class=""glossary"" id=""terminal"" style=""margin-top: 0.4em;""><dfn class=""glossary"">terminal</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;An object <i>A</i> is <a href=""https://en.wikipedia.org/wiki/Terminal_object"" class=""mw-redirect"" title=""Terminal object"">terminal</a> (also called final) if there is exactly one morphism from each object to <i>A</i>; e.g., <a href=""https://en.wikipedia.org/wiki/Singleton_(mathematics)"" title=""Singleton (mathematics)"">singletons</a>  in <b><a href=""https://en.wikipedia.org/wiki/Category_of_sets"" title=""Category of sets"">Set</a></b>. It is the dual of an <a href=""https://en.wikipedia.org/wiki/Initial_object"" class=""mw-redirect"" title=""Initial object"">initial object</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;An object <i>A</i> in an ∞-category <i>C</i> is terminal if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Map} _{C}(B,A)}"">
   <semantics>
@@ -4913,17 +4913,17 @@ satisfying the condition: for each morphism <i>f</i>: <i>x</i> → <i>y</i> in <
     <annotation encoding=""application/x-tex"">{\displaystyle \operatorname {Map} _{C}(B,A)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/8a813c027b796c2ced18c4ce0cad72c92a2016d5"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:12.418ex; height:2.843ex;"" alt=""\operatorname {Map} _{C}(B,A)""/></span> is <a href=""https://en.wikipedia.org/wiki/Contractible_space"" title=""Contractible space"">contractible</a> for every object <i>B</i> in <i>C</i>.</dd>
-
-<dt class=""glossary"" id=""thick_subcategory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">thick subcategory</dfn></dt>
+"
+"<dt class=""glossary"" id=""thick_subcategory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">thick subcategory</dfn></dt>"¬"
 <dd class=""glossary"">A full subcategory of an abelian category is <a href=""https://en.wikipedia.org/w/index.php?title=Thick_subcategory&amp;action=edit&amp;redlink=1"" class=""new"" title=""Thick subcategory (page does not exist)"">thick</a> if it is closed under extensions.</dd>
-
-<dt class=""glossary"" id=""thin"" style=""margin-top: 0.4em;""><dfn class=""glossary"">thin</dfn></dt>
+"
+"<dt class=""glossary"" id=""thin"" style=""margin-top: 0.4em;""><dfn class=""glossary"">thin</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Thin_category"" class=""mw-redirect"" title=""Thin category"">thin</a> is a category where there is at most one morphism between any pair of objects.</dd>
-
-<dt class=""glossary"" id=""triangulated_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">triangulated category</dfn></dt>
+"
+"<dt class=""glossary"" id=""triangulated_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">triangulated category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Triangulated_category"" title=""Triangulated category"">triangulated category</a> is a category where one can talk about distinguished triangles, generalization of exact sequences. An abelian category is a prototypical example of a triangulated category. A <a href=""https://en.wikipedia.org/wiki/Derived_category"" title=""Derived category"">derived category</a> is a triangulated category that is not necessary an abelian category.</dd>
-
-<dt class=""glossary"" id=""universal"" style=""margin-top: 0.4em;""><dfn class=""glossary"">universal</dfn></dt>
+"
+"<dt class=""glossary"" id=""universal"" style=""margin-top: 0.4em;""><dfn class=""glossary"">universal</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;Given a functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:C\to D}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -5213,13 +5213,13 @@ is bijective. In particular, if <span class=""mwe-math-element""><span class=""m
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle \operatorname {Hom} _{D}(X,f(-))}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b960a3eee0e23d4564a693fbdeedb1d3f8e50aa6"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:16.154ex; height:2.843ex;"" alt=""\operatorname {Hom} _{D}(X,f(-))""/></span>.</dd>
-<dt class=""glossary"" id=""waldhausen_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Waldhausen category</dfn></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b960a3eee0e23d4564a693fbdeedb1d3f8e50aa6"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:16.154ex; height:2.843ex;"" alt=""\operatorname {Hom} _{D}(X,f(-))""/></span>.</dd>"
+"<dt class=""glossary"" id=""waldhausen_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Waldhausen category</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Waldhausen_category"" title=""Waldhausen category"">Waldhausen category</a> is, roughly, a category with families of cofibrations and weak equivalences.</dd>
-
-<dt class=""glossary"" id=""wellpowered"" style=""margin-top: 0.4em;""><dfn class=""glossary"">wellpowered</dfn></dt>
-<dd class=""glossary"">A category is wellpowered if for each object there is only a set of pairwise non-isomorphic <a href=""https://en.wikipedia.org/wiki/Subobject"" title=""Subobject"">subobjects</a>.</dd>
-<dt class=""glossary"" id=""yoneda"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Yoneda</dfn></dt>
+"
+"<dt class=""glossary"" id=""wellpowered"" style=""margin-top: 0.4em;""><dfn class=""glossary"">wellpowered</dfn></dt>"¬"
+<dd class=""glossary"">A category is wellpowered if for each object there is only a set of pairwise non-isomorphic <a href=""https://en.wikipedia.org/wiki/Subobject"" title=""Subobject"">subobjects</a>.</dd>"
+"<dt class=""glossary"" id=""yoneda"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Yoneda</dfn></dt>"¬"
 <dd class=""glossary"">1.&#160;&#160;<div class=""quotebox pullquote floatright"" style=""width:33%;&#32;;""><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r887775652""/>
 <div class=""quotebox-quote left-aligned"" style="""">Yoneda’s Lemma asserts ... in more evocative terms, a mathematical object X is best thought of in the context of a category surrounding it, and is determined by the network of relations it enjoys with all the objects of that category. Moreover, to understand X it might be more germane to deal directly with the functor representing it. This is reminiscent of Wittgenstein’s ’language game’; i.e., that the meaning of a word is—in essence—determined by, in fact is nothing more than, its relations to all the utterances in a language.</div>
 <p><cite class=""left-aligned"" style=""""><a href=""https://en.wikipedia.org/wiki/Barry_Mazur"" title=""Barry Mazur"">Barry Mazur</a>,&#32;<a rel=""nofollow"" class=""external text"" href=""http://www.math.harvard.edu/~mazur/papers/Thinking.about.Grothendieck%285%29.pdf"">Thinking about Grothendieck</a></cite>
@@ -5321,6 +5321,7 @@ is fully faithful and is called the Yoneda embedding.<sup id=""cite_ref-15"" cla
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle F:C\to D}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d082755579fdc0f7d9daca655472d59e8347242d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:10.983ex; height:2.176ex;"" alt=""F:C\to D""/></span> is a functor and <i>y</i> is the Yoneda embedding of <i>C</i>, then the <a href=""https://en.wikipedia.org/wiki/Yoneda_extension"" class=""mw-redirect"" title=""Yoneda extension"">Yoneda extension</a> of <i>F</i> is the left Kan extension of <i>F</i> along <i>y</i>.</dd>
-<dt class=""glossary"" id=""zero"" style=""margin-top: 0.4em;""><dfn class=""glossary"">zero</dfn></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d082755579fdc0f7d9daca655472d59e8347242d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:10.983ex; height:2.176ex;"" alt=""F:C\to D""/></span> is a functor and <i>y</i> is the Yoneda embedding of <i>C</i>, then the <a href=""https://en.wikipedia.org/wiki/Yoneda_extension"" class=""mw-redirect"" title=""Yoneda extension"">Yoneda extension</a> of <i>F</i> is the left Kan extension of <i>F</i> along <i>y</i>.</dd>"
+"<dt class=""glossary"" id=""zero"" style=""margin-top: 0.4em;""><dfn class=""glossary"">zero</dfn></dt>"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Zero_object"" class=""mw-redirect"" title=""Zero object"">zero object</a> is an object that is both initial and terminal, such as a <a href=""https://en.wikipedia.org/wiki/Trivial_group"" title=""Trivial group"">trivial group</a> in <b><a href=""https://en.wikipedia.org/wiki/Category_of_groups"" title=""Category of groups"">Grp</a></b>.</dd>
+"
