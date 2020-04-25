@@ -1,3 +1,17 @@
+"Introduction (Wikipedia Glossary of Category Theory)"¬"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory"">Wikipedia's Glossary of category theory</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Category Theory)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Category-Theory-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Category-Theory-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory"">""Glossary of category theory""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_category_theory"">https://en.wikipedia.org/wiki/Glossary_of_category_theory</a></p>
+"
 "abelian (Wikipedia Glossary of Category Theory)"¬"
 <dd class=""glossary"">A category is <a href=""https://en.wikipedia.org/wiki/Abelian_category"" title=""Abelian category"">abelian</a> if it has a zero object, it has all pullbacks and pushouts, and all monomorphisms and epimorphisms are normal.</dd>
 "
